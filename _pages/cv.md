@@ -15,6 +15,7 @@ Education
 * M.S. in Mathematics, Sapienza University of Rome, 2015
 * B.S. in Mathematics, Sapienza University of Rome, 2012
 
+For more informations you can download [my CV](https://github.com/martacatalano/martacatalano.github.io/raw/master/files/MartaCatalano_CV.pdf).
   
 <!-- Teaching
 ======
