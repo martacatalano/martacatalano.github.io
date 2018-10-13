@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-*Ph.D in Statistics, Bocconi University, 2020 (expected)
-*M.S. in Mathematics, Sapienza University of Rome, 2015
-*B.S. in Mathematics, Sapienza University of Rome, 2012
+* Ph.D in Statistics, Bocconi University, 2020 (expected)
+* M.S. in Mathematics, Sapienza University of Rome, 2015
+* B.S. in Mathematics, Sapienza University of Rome, 2012
 
   
 <!-- Teaching
