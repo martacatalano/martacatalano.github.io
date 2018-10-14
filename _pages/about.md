@@ -10,5 +10,5 @@ redirect_from:
 
 I am a PhD student in Statistics at Bocconi University, within the [department of Decision Sciences](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/), under the supervision of Prof. [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/).
 
-**Research interests**
+**Research interests**  
 Bayesian nonparametrics, completely random measures, stochastic processes, exchangeability and partial exchangeability, survival analysis.
