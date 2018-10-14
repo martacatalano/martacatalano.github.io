@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Email**\
-marta.catalano@phd.unibocconi.it\ \
+marta.catalano@phd.unibocconi.it 
 
 **Address**:\
 Office 3E2FM01 \
