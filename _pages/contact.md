@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-**Email**
-marta.catalano@phd.unibocconi.it
+**Email**\
+marta.catalano@phd.unibocconi.it\ \
 
-**Address**:
-Office 3E2FM01 
-Department of Decision Sciences, Bocconi University 
+**Address**:\
+Office 3E2FM01 \
+Department of Decision Sciences, Bocconi University \
 Via Roentgen, 1, 20136 Milano, Italy.
 
