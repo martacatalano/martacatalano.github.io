@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student in Statistics at Bocconi University, within the [department of Decision Sciences](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/), under the supervision of Prof. [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/).  
-My research is mainly focused on using the theory of stochastic processes to deal with Bayesian nonparametric models and their applications. In particular, I am interested in the uses and properties of completely random measures and their transformations. 
+My research is mainly focused on using the theory of stochastic and point processes to deal with Bayesian nonparametric models and their applications. In particular, I am interested in the uses and properties of completely random measures and their transformations. 
 
 **Research interests**  
-Bayesian nonparametrics, completely random measures, stochastic processes, exchangeability and partial exchangeability, survival analysis.
+Bayesian nonparametrics, completely random measures, stochastic and point processes, exchangeability and partial exchangeability, survival analysis.
