@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistics at Bocconi University.
+I am a PhD student in Statistics at Bocconi University, within the __[department of Decision science]__ [https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/], under the supervision of Prof. [Antonio Lijoi] (http://mypage.unibocconi.it/antoniolijoi/).
