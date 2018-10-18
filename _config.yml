@@ -48,7 +48,9 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
 # SEO Related
+search : true
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
