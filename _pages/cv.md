@@ -16,7 +16,7 @@ Education
 * [__M.S. in Mathematics__](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-magistrale) at Sapienza University of Rome, 2015
 * [__B.S. in Mathematics__](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-triennale) at Sapienza University of Rome, 2012
 
-A full pdf version of my CV can be found [__here__](https://github.com/martacatalano/martacatalano.github.io/raw/master/files/MartaCatalano_CV_Dec2018.pdf).
+A full pdf version of my CV can be found [__here__](https://github.com/martacatalano/martacatalano.github.io/blob/master/files/MartaCatalano_CV_Feb2019.pdf).
   
 <!-- Teaching
 ======
