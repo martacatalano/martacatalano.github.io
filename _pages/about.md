@@ -11,9 +11,9 @@ I am a PhD student in Statistics at Bocconi University, within the department of
 I am interested in using the theory of stochastic and point processes to deal with Bayesian nonparametric models and their applications. In particular, my research is mainly focused on the uses and properties of completely random measures and their transformations. 
 
 RESEARCH INTERESTS  
-    * **Bayesian nonparametrics** and its applications to survival analysis;
-    * Optimal transport and **Wasserstein** distances in BNP;
-    * Stochastic and point processes with a particular focus on **completely random measures**.
+  * **Bayesian nonparametrics** and its applications to survival analysis;
+  * Optimal transport and **Wasserstein** distances in BNP;
+  * Stochastic and point processes with a particular focus on **completely random measures**.
 
 
 CURRENT PROJECTS
