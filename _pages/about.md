@@ -15,9 +15,6 @@ RESEARCH INTERESTS
   * Optimal transport and **Wasserstein** distances in BNP;
   * Stochastic and point processes with a particular focus on **completely random measures**.
 
-&nbsp;
-&nbsp;
-
 CURRENT PROJECTS
 1. Approximately exchangeable sequences in the Wasserstein distance (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), **working paper**);
 2. Wasserstein convergence rates of an approximate sampler for time-to-event data (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), **submitted**).
