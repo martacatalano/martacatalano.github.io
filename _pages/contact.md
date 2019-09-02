@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 **Email**  
-marta.catalano@unibocconi.it 
+marta.catalano@phd.unibocconi.it 
 
 **Address**  
 Office 3E2FM01   
