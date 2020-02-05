@@ -37,8 +37,8 @@ A full pdf version of my CV can be found [here](https://martacatalano.github.io/
 
 <font size="5" > <br> Contact </font>
 
-marta.catalano@phd.unibocconi.it
-Office 3E2FM01
-Department of Decision Sciences, Bocconi University
-Via Roentgen 1, 20136 Milano, Italy.
+marta.catalano@phd.unibocconi.it  
+Office 3E2FM01  
+Department of Decision Sciences, Bocconi University  
+Via Roentgen 1, 20136 Milano, Italy.  
 
