@@ -165,6 +165,10 @@ hr {
 /* aggiunto da me */
    
 li, ul, ol {margin-left: 0em; padding-left: 1.2em} 
+li span {
+  position: relative;
+  left: -0.5px;
+}
 
 
 ul li,
