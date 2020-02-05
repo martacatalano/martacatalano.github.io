@@ -15,7 +15,7 @@ I am interested in using the theory of stochastic and point processes to deal wi
 * Optimal transport and **Wasserstein** distances in BNP;
 * Stochastic and point processes with a particular focus on **completely random measures**.
 
-### Current projects
+ <font size="6"> Current projects</font>
 1.  Approximately exchangeable sequences in the Wasserstein distance (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), **working paper**);
 2.  Approximation of Bayesian models for time-to-event data (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), **submitted**).
 
