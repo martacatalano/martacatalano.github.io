@@ -23,10 +23,18 @@ I am interested in using the theory of stochastic and point processes to deal wi
 * [B.S.](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-triennale)  in Mathematics at Sapienza University of Rome, 2012
 
 A full pdf version of my CV can be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Dec2019.pdf).
+
  <font size="5" > <br>Current projects</font>
 1.  Approximately exchangeable sequences in the Wasserstein distance (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), **working paper**);
 2.  Approximation of Bayesian models for time-to-event data (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), **submitted**).
 
+<font size="5" > <br> Teaching  </font>
+Teaching Assistant</b> at Bocconi University for the following courses:
+* [20179] (http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2020&IdPag=6203) Data Analysis. Master course, Autumn 2019.
+* [30401] (http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) Mathematics and Statistics. Bachelor course, Spring 2019.
+* [20179](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20179&anno=2019&IdPag=6165) Data Analysis. Master course, Autumn 2018.
+* [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima2006.php?cod_ins=30401&anno=2018&IdPag=6067)Mathematics and Statistics. Bachelor course, Spring 2018.
+* [20179](http://didattica.unibocconi.it/ts/tsn_anteprima2006.php?cod_ins=20179&anno=2018&IdPag=6066)  Data Analysis. Master course, Autumn 2017.
 
 
 
