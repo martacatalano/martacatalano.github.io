@@ -35,5 +35,10 @@ A full pdf version of my CV can be found [here](https://martacatalano.github.io/
 * [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima2006.php?cod_ins=30401&anno=2018&IdPag=6067)Mathematics and Statistics. Bachelor course at Bocconi University, Spring 2018.
 * [20179](http://didattica.unibocconi.it/ts/tsn_anteprima2006.php?cod_ins=20179&anno=2018&IdPag=6066)  Data Analysis. Master course at Bocconi University, Autumn 2017.
 
+<font size="5" > <br> Contact </font>
 
+marta.catalano@phd.unibocconi.it
+Office 3E2FM01
+Department of Decision Sciences, Bocconi University
+Via Roentgen 1, 20136 Milano, Italy.
 
