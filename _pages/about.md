@@ -26,7 +26,7 @@ I am interested in using the theory of stochastic and point processes to deal wi
 * [M.S.](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-magistrale) in Mathematics at Sapienza University of Rome, 2015
 * [B.S.](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-triennale)  in Mathematics at Sapienza University of Rome, 2012
 
-A full pdf version of my CV can be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Dec2019.pdf).
+A full pdf version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Dec2019.pdf).
 
 <font size="5" > <br> Current projects  </font>
 1.  Approximately exchangeable sequences in the Wasserstein distance (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), **working paper**);
