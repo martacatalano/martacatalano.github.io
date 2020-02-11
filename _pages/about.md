@@ -38,6 +38,11 @@ A full pdf version of my CV may be found [here](https://martacatalano.github.io/
 * [SIS 2019](https://mathesia.com/sis19/?fbclid=IwAR3h-QDTWSaAOL-jkIJa1OtfCxhTVf6AhrmTVSDayywFTAMRzD2dDVeYKvs) Smart Statistics for Smart Applications (Milano, Italy, June 2019).
 * [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Italy, June 2019).
 
+<p style = "margin-bottom:5px;"> <font size="5" > <br> Poster presentations  </font></p>
+* [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) Objective Bayes Methodology Conference (Warwick, UK, June 2019)
+* [BNP12](http://www.stats.ox.ac.uk/bnp12/) 12th International Conference on Bayesian Nonparametrics (Oxford, UK, June 2019)
+
+
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching Assistant  </font></p>
 * [20179](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2020&IdPag=6203) Data Analysis. Master course at Bocconi University, Autumn 2019.
 * [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) Mathematics and Statistics. Bachelor course at Bocconi University, Spring 2019.
