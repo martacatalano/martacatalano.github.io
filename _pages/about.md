@@ -47,7 +47,7 @@ A full pdf version of my CV may be found [here](https://martacatalano.github.io/
 * [20179](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2020&IdPag=6203) Data Analysis. Master course at Bocconi University, Autumn 2019.
 * [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) Mathematics and Statistics. Bachelor course at Bocconi University, Spring 2019.
 * [20179](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20179&anno=2019&IdPag=6165) Data Analysis. Master course at Bocconi University, Autumn 2018.
-* [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima2006.php?cod_ins=30401&anno=2018&IdPag=6067)Mathematics and Statistics. Bachelor course at Bocconi University, Spring 2018.
+* [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima2006.php?cod_ins=30401&anno=2018&IdPag=6067) Mathematics and Statistics. Bachelor course at Bocconi University, Spring 2018.
 * [20179](http://didattica.unibocconi.it/ts/tsn_anteprima2006.php?cod_ins=20179&anno=2018&IdPag=6066)  Data Analysis. Master course at Bocconi University, Autumn 2017.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact   </font></p>
