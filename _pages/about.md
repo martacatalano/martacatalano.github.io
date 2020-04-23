@@ -33,6 +33,7 @@ A full pdf version of my CV may be found [here](https://martacatalano.github.io/
 2.  Approximation of Bayesian models for time-to-event data (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *submitted*).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Invited talks  </font></p>
+* [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) 13th International Conference of the ERCIM WG on Computational and Methodological Statistics (London, UK, December 2020)
 * [ISBA 2020](https://bayesian.org/isba2020-home/) 15th World Meeting of the International Society of Bayesian Analysis (Kunming, China, June 2021).
 * [XV CLAPEM 2019](http://clapem2019.eventos.cimat.mx/home) Latin American Congress of Probability and Mathematical Statistics (Mérida, Mexico, December 2019).
 * [SIS 2019](https://mathesia.com/sis19/?fbclid=IwAR3h-QDTWSaAOL-jkIJa1OtfCxhTVf6AhrmTVSDayywFTAMRzD2dDVeYKvs) Smart Statistics for Smart Applications (Milano, Italy, June 2019).
