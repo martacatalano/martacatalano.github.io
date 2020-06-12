@@ -29,8 +29,9 @@ I am interested in using the theory of stochastic and point processes to deal wi
 A full pdf version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jun2020.pdf).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Current projects  </font></p>
-1.  Approximately exchangeable sequences in the Wasserstein distance (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *in preparation*);
-2.  Approximation of Bayesian models for time-to-event data (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *submitted*).
+1. Posterior Asymptotics for Hierarchical Mixture Models (Joint work with P. [De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/home), A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *in preparation*);
+2.  Measuring dependence in the Wasserstein distance for Bayesian nonparametric models (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *submitted*);
+3.  Approximation of Bayesian models for time-to-event data (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *submitted*).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Invited talks  </font></p>
 * [ECOSTA 2020](http://cmstatistics.org/EcoSta2020/)  4th International Conference on Econometrics and Statistics (Limassol, Cyprus, August 2020)
