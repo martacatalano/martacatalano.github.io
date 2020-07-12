@@ -26,7 +26,7 @@ I am interested in using the theory of stochastic and point processes to deal wi
 * [M.S.](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-magistrale) in Mathematics at Sapienza University of Rome, 2015
 * [B.S.](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-triennale)  in Mathematics at Sapienza University of Rome, 2012
 
-A full pdf version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jun2020.pdf).
+A full pdf version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jul2020.pdf).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Current projects  </font></p>
 1. Posterior Asymptotics for Hierarchical Mixture Models (Joint work with P. [De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/home), A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *in preparation*);
