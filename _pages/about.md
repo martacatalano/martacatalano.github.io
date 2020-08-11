@@ -28,11 +28,6 @@ I am interested in using the theory of stochastic and point processes to deal wi
 
 A full pdf version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jul2020.pdf).
 
-<p style = "margin-bottom:5px;"> <font size="5" > <br> Current projects  </font></p>
-1. Posterior Asymptotics for Hierarchical Mixture Models (Joint work with P. [De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/home), A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *in preparation*);
-2.  Measuring dependence in the Wasserstein distance for Bayesian nonparametric models (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *submitted*);
-3.  Approximation of Bayesian models for time-to-event data (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *under revision*).
-
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Invited talks  </font></p>
 * ~~[ECOSTA 2020](http://cmstatistics.org/EcoSta2020/)  4th International Conference on Econometrics and Statistics (Limassol, Cyprus, August 2020)~~ Cancelled due to COVID-19
 * [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) 13th International Conference of the ERCIM WG on Computational and Methodological Statistics (London, UK, December 2020)
@@ -53,10 +48,8 @@ A full pdf version of my CV may be found [here](https://martacatalano.github.io/
 * [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima2006.php?cod_ins=30401&anno=2018&IdPag=6067) Mathematics and Statistics. Bachelor course at Bocconi University, Spring 2018.
 * [20179](http://didattica.unibocconi.it/ts/tsn_anteprima2006.php?cod_ins=20179&anno=2018&IdPag=6066)  Data Analysis. Master course at Bocconi University, Autumn 2017.
 
-<p style = "margin-bottom:5px;"> <font size="5" > <br> Contact   </font></p>
-
-marta.catalano@phd.unibocconi.it  
-Office 3E2FM01  
-Department of Decision Sciences, Bocconi University  
-Via Roentgen 1, 20136 Milano, Italy.  
+<p style = "margin-bottom:5px;"> <font size="5" > <br> Research  </font></p>
+1. Posterior Asymptotics for Hierarchical Mixture Models (Joint work with P. [De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/home), A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *in preparation*);
+2.  Measuring dependence in the Wasserstein distance for Bayesian nonparametric models (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *submitted*);
+3.  Approximation of Bayesian models for time-to-event data (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *under revision*).
 
