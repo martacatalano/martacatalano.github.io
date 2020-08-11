@@ -11,22 +11,21 @@ redirect_from:
 <p style = "margin-bottom:20px;"><font  size="7" >  Marta Catalano <br> </font> </p>
   
   
-I am a final year PhD student in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/), under the supervision of Prof. [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and Prof. [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). I am also member of the [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home) at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)) and member of the ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) at Collegio Carlo Alberto. I recently joined the [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/) led by MiDas. Previously, I completed my bachelor and master's degree in Mathematics at University of Rome La Sapienza.  
-I am interested in using the theory of stochastic and point processes to deal with Bayesian nonparametric models and their applications. In particular, my research is mainly focused on the uses and properties of completely random measures and their transformations. 
+I am a final year PhD student in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/), under the supervision of Prof. [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and Prof. [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). I am also member of the [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home) at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)) and member of the ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) at Collegio Carlo Alberto. I recently joined the [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/) led by MiDas.<br>
+Previously, I completed my bachelor and master's degree in Mathematics at University of Rome [La Sapienza](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-magistrale).  A full pdf version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jul2020.pdf).
+<!-- I am interested in using the theory of stochastic and point processes to deal with Bayesian nonparametric models and their applications. In particular, my research is mainly focused on the uses and properties of completely random measures and their transformations. -->
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research interests  </font></p>
 * **Bayesian nonparametrics** and its applications to survival analysis;
 * Optimal transport and **Wasserstein** distances in BNP;
 * Stochastic and point processes with a particular focus on **completely random measures**.
-
-
+<!-- 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Education  </font></p>
 * [Ph.D.](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Programs/PhD/PhD+in+Statistics/PhD+in+Statistics)  in Statistics at Bocconi University, January 2021 (expected)
 * [M.Phil.](https://masterbigdata.it/) in Big Data Analytics & Social Mining at Pisa University, 2016
 * [M.S.](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-magistrale) in Mathematics at Sapienza University of Rome, 2015
 * [B.S.](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-triennale)  in Mathematics at Sapienza University of Rome, 2012
-
-A full pdf version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jul2020.pdf).
+-->
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Talks & Posters  </font></p>
 * Invited talk at [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) 13th International Conference of the ERCIM WG on Computational and Methodological Statistics (London, UK, December 2020)
