@@ -28,18 +28,16 @@ I am interested in using the theory of stochastic and point processes to deal wi
 
 A full pdf version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jul2020.pdf).
 
-<p style = "margin-bottom:5px;"> <font size="5" > <br> Invited talks  </font></p>
-* ~~[ECOSTA 2020](http://cmstatistics.org/EcoSta2020/)  4th International Conference on Econometrics and Statistics (Limassol, Cyprus, August 2020)~~ Cancelled due to COVID-19
-* [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) 13th International Conference of the ERCIM WG on Computational and Methodological Statistics (London, UK, December 2020)
-* [ISBA 2020](https://bayesian.org/isba2020-home/) 15th World Meeting of the International Society of Bayesian Analysis (Kunming, China, June 2021).
-* [XV CLAPEM 2019](http://clapem2019.eventos.cimat.mx/home) Latin American Congress of Probability and Mathematical Statistics (Mérida, Mexico, December 2019).
-* [SIS 2019](https://mathesia.com/sis19/?fbclid=IwAR3h-QDTWSaAOL-jkIJa1OtfCxhTVf6AhrmTVSDayywFTAMRzD2dDVeYKvs) Smart Statistics for Smart Applications (Milano, Italy, June 2019).
-* [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Italy, June 2019).
-
-<p style = "margin-bottom:5px;"> <font size="5" > <br> Poster presentations  </font></p>
-* [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) Objective Bayes Methodology Conference (Warwick, UK, June 2019)
-* [BNP12](http://www.stats.ox.ac.uk/bnp12/) 12th International Conference on Bayesian Nonparametrics (Oxford, UK, June 2019)
-
+<p style = "margin-bottom:5px;"> <font size="5" > <br> Talks & Posters  </font></p>
+* Invited talk at [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) 13th International Conference of the ERCIM WG on Computational and Methodological Statistics (London, UK, December 2020)
+* Contributed prerecorded talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (August 2020)
+* ~~Invited talk at [ISBA 2020](https://bayesian.org/isba2020-home/) 15th World Meeting of the International Society of Bayesian Analysis (Kunming, China, June 2020).~~ Postponed to June 2021 due to COVID-19
+* ~~Invited talk at [ECOSTA 2020](http://cmstatistics.org/EcoSta2020/)  4th International Conference on Econometrics and Statistics (Limassol, Cyprus, August 2020)~~ Cancelled due to COVID-19
+* Invited talk at [XV CLAPEM 2019](http://clapem2019.eventos.cimat.mx/home) Latin American Congress of Probability and Mathematical Statistics (Mérida, Mexico, December 2019).
+* Poster session at [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) Objective Bayes Methodology Conference (Warwick, UK, June 2019)
+* Poster session at [BNP12](http://www.stats.ox.ac.uk/bnp12/) 12th International Conference on Bayesian Nonparametrics (Oxford, UK, June 2019)
+* Invited talk at [SIS 2019](https://mathesia.com/sis19/?fbclid=IwAR3h-QDTWSaAOL-jkIJa1OtfCxhTVf6AhrmTVSDayywFTAMRzD2dDVeYKvs) Smart Statistics for Smart Applications (Milano, Italy, June 2019).
+* Invited talk at [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Italy, June 2019).
 
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching Assistant  </font></p>
 * [20179](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2020&IdPag=6203) Data Analysis. Master course at Bocconi University, Autumn 2019.
