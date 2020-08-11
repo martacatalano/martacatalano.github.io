@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Marta Catalano"
   avatar           : "profile.png"
-  bio              : "PhD student in Statistics at Bocconi University.<br>marta.catalano@<br>phd.unibocconi.it "
+  bio              : "PhD student in Statistics at Bocconi University.<br>marta.catalano <at> phd.unibocconi.it "
   location         : #"Milano, Italy"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "marta.catalano@phd.unibocconi.it"
+  email            : # "marta.catalano@phd.unibocconi.it"
   uri              :
   bitbucket        :
   codepen          :
