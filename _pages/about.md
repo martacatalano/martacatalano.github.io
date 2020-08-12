@@ -47,7 +47,7 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 1.  **Approximation of Bayesian models for time-to-event data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020).<br>
 Electronic Journal of Statistics. To appear.
-2.  Bayesian Model Comparison based on Wasserstein Distances. <br>
+2.  **Bayesian Model Comparison based on Wasserstein Distances.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2019). <br>
 Book of Short Papers [SIS2019](http://meetings3.sis-statistica.org/index.php/SIS2019/index/pages/view/book).
 
