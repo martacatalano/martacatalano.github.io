@@ -38,8 +38,12 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 * [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima2006.php?cod_ins=30401&anno=2018&IdPag=6067) Mathematics and Statistics. Bachelor course at Bocconi University, Spring 2018.
 * [20179](http://didattica.unibocconi.it/ts/tsn_anteprima2006.php?cod_ins=20179&anno=2018&IdPag=6066)  Data Analysis. Master course at Bocconi University, Autumn 2017.
 
-<p style = "margin-bottom:5px;"> <font size="5" > <br> Research  </font></p>
+<p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1. Posterior Asymptotics for Hierarchical Mixture Models (Joint work with P. [De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/home), A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *in preparation*);
 2.  Measuring dependence in the Wasserstein distance for Bayesian nonparametric models (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *submitted*);
-3.  Approximation of Bayesian models for time-to-event data (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *under revision*).
+
+
+<p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
+1.  Approximation of Bayesian models for time-to-event data. <br>
+M. Catalano, A. Lijoi and I. Pr\"unster. Electronic Journal of Statistics. To appear.
 
