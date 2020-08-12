@@ -51,5 +51,5 @@ M. Catalano, A. Lijoi and I. Prünster (2020).<br>
 Electronic Journal of Statistics. To appear.
 2.  **Bayesian Model Comparison based on Wasserstein Distances.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2019). <br>
-Book of Short Papers SIS2019 ([pdf](http://meetings3.sis-statistica.org/index.php/SIS2019/index/pages/view/book)).
+Book of Short Papers SIS2019 ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
 
