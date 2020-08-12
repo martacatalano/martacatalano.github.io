@@ -45,5 +45,6 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
 1.  Approximation of Bayesian models for time-to-event data. <br>
-M. Catalano, A. Lijoi and I. Prünster. Electronic Journal of Statistics. To appear.
+M. Catalano, A. Lijoi and I. Prünster.<br>
+Electronic Journal of Statistics. To appear.
 
