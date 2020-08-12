@@ -39,8 +39,10 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 * [20179](http://didattica.unibocconi.it/ts/tsn_anteprima2006.php?cod_ins=20179&anno=2018&IdPag=6066)  Data Analysis. Master course at Bocconi University, Autumn 2017.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
-1. Posterior Asymptotics for Hierarchical Mixture Models (Joint work with P. [De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/home), A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *in preparation*);
-2.  Measuring dependence in the Wasserstein distance for Bayesian nonparametric models (Joint work with A. [Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and I. [Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=), *submitted*);
+1. **Posterior Asymptotics for Hierarchical Mixture Models**. <br> 
+M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (In preparation).
+2.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
+M. Catalano, A. Lijoi and I. Prünster (Submitted).
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
