@@ -47,8 +47,8 @@ M. Catalano, A. Lijoi and I. Prünster (Submitted).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
 1.  **Approximation of Bayesian models for time-to-event data.** <br>
-M. Catalano, A. Lijoi and I. Prünster (2020).<br>
-Electronic Journal of Statistics. To appear.
+M. Catalano, A. Lijoi and I. Prünster (2020). ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211))<br>
+Electronic Journal of Statistics, 14, 3366-3395.
 2.  **Bayesian model comparison based on Wasserstein distances.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2019). <br>
 Book of Short Papers SIS2019 ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
