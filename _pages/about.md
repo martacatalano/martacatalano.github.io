@@ -42,7 +42,6 @@ M. Catalano, A. Lijoi and I. Prünster (Under review).
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
-Electronic Journal of Statistics, 14, 3366-3395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211)).
 1.  **Approximation of Bayesian models for time-to-event data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
 Electronic Journal of Statistics, 14, 3366-3395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211)).
