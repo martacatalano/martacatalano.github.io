@@ -38,7 +38,7 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
-M. Catalano, A. Lijoi and I. Prünster (under revsion).
+M. Catalano, A. Lijoi and I. Prünster (under revision).
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
