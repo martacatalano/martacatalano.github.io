@@ -32,24 +32,21 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 * Invited talk at [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Italy, June 2019).
 
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching Assistant  </font></p>
-* [20179](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2020&IdPag=6203) Data Analysis. Master course at Bocconi University, Autumn 2019.
-* [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) Mathematics and Statistics. Bachelor course at Bocconi University, Spring 2019.
-* [20179](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=20179&anno=2019&IdPag=6165) Data Analysis. Master course at Bocconi University, Autumn 2018.
-* [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima2006.php?cod_ins=30401&anno=2018&IdPag=6067) Mathematics and Statistics. Bachelor course at Bocconi University, Spring 2018.
-* [20179](http://didattica.unibocconi.it/ts/tsn_anteprima2006.php?cod_ins=20179&anno=2018&IdPag=6066)  Data Analysis. Master course at Bocconi University, Autumn 2017.
+* [ECO0152](https://www.finance-insurance.unito.it/do/corsi.pl/Show?_id=2cfa) Numerical and Statistical Methods for Finance. Master course at University of Turin (AY 2020/2021).
+* [20179](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=6351) Data Analysis. Master course at Bocconi University (AY 2021/2020, 2019/2020, 2018/2019, 2017/2018).
+* [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) Mathematics and Statistics. Bachelor course at Bocconi University (AY 2018/2019, 2017/2018).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
-1. **Posterior asymptotics for hierarchical mixture models**. <br> 
-M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (In preparation).
-2.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
-M. Catalano, A. Lijoi and I. Prünster (Submitted).
+1.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
+M. Catalano, A. Lijoi and I. Prünster (Under review).
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
+Electronic Journal of Statistics, 14, 3366-3395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211)).
 1.  **Approximation of Bayesian models for time-to-event data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
 Electronic Journal of Statistics, 14, 3366-3395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211)).
 2.  **Bayesian model comparison based on Wasserstein distances.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2019). <br>
-Book of Short Papers SIS2019 ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
+Book of Short Papers of the Italian Statistical Society ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
 
