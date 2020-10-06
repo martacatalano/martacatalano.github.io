@@ -33,7 +33,7 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching Assistant  </font></p>
 * [ECO0152](https://www.finance-insurance.unito.it/do/corsi.pl/Show?_id=2cfa) Numerical and Statistical Methods for Finance. Master course at University of Turin (AY 2020/2021).
-* [20179](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=6351) Data Analysis. Master course at Bocconi University (AY 2021/2020, 2019/2020, 2018/2019, 2017/2018).
+* [20179](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=6351) Data Analysis. Master course at Bocconi University (AY 2020/2021, 2019/2020, 2018/2019, 2017/2018).
 * [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) Mathematics and Statistics. Bachelor course at Bocconi University (AY 2018/2019, 2017/2018).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
