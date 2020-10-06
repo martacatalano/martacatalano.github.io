@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @martacatal
 facebook:
   username               :
   app_id                 :
@@ -86,7 +86,7 @@ author:
   bio              : "PhD student in Statistics at Bocconi University.<br>marta.catalano @ phd.unibocconi.it"
   location         : #"Milano, Italy"
   employer         :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=jVrWR0EAAAAJ&hl=it"
   email            : # "marta.catalano@phd.unibocconi.it"
   uri              :
   bitbucket        :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "@martacatal"
   vine             :
   weibo            :
   xing             :
