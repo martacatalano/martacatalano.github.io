@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @martacatal
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@martacatal"
+  twitter          : "martacatal"
   vine             :
   weibo            :
   xing             :
