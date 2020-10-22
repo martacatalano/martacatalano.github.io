@@ -46,11 +46,11 @@ M. Catalano, A. Lijoi and I. Prünster (under revision).
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
 1. **Transport distances on random vectors of measures: recent advances in Bayesian nonparametrics.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
-Special Volume of the XV CLAPEM. Birkhäuser. To appear.
+Special Volume of the XV CLAPEM, Birkhäuser. To appear.
 2.  **Approximation of Bayesian models for time-to-event data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
 Electronic Journal of Statistics, 14, 3366-3395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211)).
 3.  **Bayesian model comparison based on Wasserstein distances.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2019). <br>
-Book of Short Papers of the Italian Statistical Society ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
+Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
 
