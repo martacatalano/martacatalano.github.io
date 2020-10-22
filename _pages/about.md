@@ -22,6 +22,7 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Talks & Posters  </font></p>
 * Invited talk at [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) 13th International Conference of the ERCIM WG on Computational and Methodological Statistics (Virtual conference, December 2020).
+* Poster session at [WiML](https://wimlworkshop.org/neurips2020/cfp/) 15th Workshop for Women in Machine Learning co-located with the [NeurIPS](https://neurips.cc/Conferences/2020) (Virtual conference, December 2020)
 * Invited talk at [BAYSM:O](https://j-isba.github.io/baysmo.html) Bayesian Young Statisticians Meeting: Online (November 2020)
 * Contributed prerecorded talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (August 2020).
 * ~~Invited talk at [ISBA 2020](https://bayesian.org/isba2020-home/) 15th World Meeting of the International Society of Bayesian Analysis (Kunming, China, June 2020).~~ Postponed to June 2021 due to COVID-19.
