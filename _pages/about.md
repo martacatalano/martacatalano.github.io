@@ -39,7 +39,9 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 * [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) Mathematics and Statistics. Bachelor course at Bocconi University (AY 2018/2019, 2017/2018).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
-1.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
+1.  **Multisample Posterior Contraction Rates under the Boosted Hierarchical Dirichlet Process**. <br>
+M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (working paper).
+2.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
 M. Catalano, A. Lijoi and I. Prünster (under revision).
 
 
