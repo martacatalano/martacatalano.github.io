@@ -12,7 +12,7 @@ redirect_from:
   
   
 I am a PhD candidate in Statistics at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/), under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). I am also member of the [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home) at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)), of the ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) at Collegio Carlo Alberto and of the MIDAS [Complex Data Modeling Research Network](https://midas.mat.uc.cl/network/).<br>
-Previously, I completed my bachelor and master's degree in Mathematics at University of Rome [La Sapienza](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-magistrale).  A full version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Dec2020.pdf).
+Previously, I completed my bachelor and master's degree in Mathematics at University of Rome [La Sapienza](https://www.mat.uniroma1.it/didattica/corsi-di-laurea/matematica-magistrale).  A full version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jan2021.pdf).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Interests  </font></p>
 * **Bayesian nonparametrics** and its applications to survival analysis.
