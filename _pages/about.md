@@ -56,5 +56,5 @@ M. Catalano, A. Lijoi and I. Prünster (2019). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Awards  </font></p>
-* Winner of the ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition 2021
+* Winner of the ASA-[SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition
 
