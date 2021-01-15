@@ -42,6 +42,7 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (submitted).
 2.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
 M. Catalano, A. Lijoi and I. Prünster (under revision).
+Winner of the ASA-[SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
