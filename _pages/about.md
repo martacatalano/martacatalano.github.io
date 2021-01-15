@@ -41,7 +41,7 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 1.  **Posterior asymptotics for boosted hierarchical Dirichlet process mixtures**. <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (submitted).
 2.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
-M. Catalano, A. Lijoi and I. Prünster (under revision).
+M. Catalano, A. Lijoi and I. Prünster (under revision).<br>
 Winner of the ASA-[SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition
 
 
