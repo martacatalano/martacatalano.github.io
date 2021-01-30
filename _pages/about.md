@@ -27,7 +27,7 @@ Previously, I completed my bachelor and master's degree in Mathematics at Univer
 * Invited talk at [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) 13th International Conference of the ERCIM WG on Computational and Methodological Statistics (Virtual, Dec 2020).
 * Poster session at [WiML](https://wimlworkshop.org/neurips2020/cfp/) 15th Workshop for Women in Machine Learning co-located with [NeurIPS](https://neurips.cc/Conferences/2020) (Virtual, Dec 2020)
 * Invited talk at [BAYSM:O](https://j-isba.github.io/baysmo.html) Bayesian Young Statisticians Meeting: Online (Virtual, Nov 2020)
-* Contributed prerecorded talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (Virtual, Aug 2020).
+* Contributed talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (Virtual, Aug 2020).
 * Invited talk at [XV CLAPEM 2019](http://clapem2019.eventos.cimat.mx/home) Latin American Congress of Probability and Mathematical Statistics (Mérida, Mexico, Dec 2019).
 * Poster session at [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) Objective Bayes Methodology Conference (Warwick, UK, Jun 2019).
 * Poster session at [BNP12](http://www.stats.ox.ac.uk/bnp12/) 12th International Conference on Bayesian Nonparametrics (Oxford, UK, Jun 2019)
