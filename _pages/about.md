@@ -23,6 +23,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Invited talk at [JSM](https://ww2.amstat.org/meetings/jsm/2021/) Joint Statistical Meeting (Seattle, WA, Aug 2021).
 * Invited talk at [ISBA 2020](https://bayesian.org/isba2020-home/) 15th World Meeting of the International Society of Bayesian Analysis (Virtual, Jun 2021).
 * Invited talk at [ECOSTA 2021](http://www.cmstatistics.org/EcoSta2021/)  4th International Conference on Econometrics and Statistics (Virtual, Jun 2021).
+* Seminar at the Department of Economics at [University of Bergamo](https://dse.unibg.it/it/eventi/marta-catalano-measuring-dependence-the-wasserstein-distance-for-bayesian-nonparametric) (Bergamo, Virtual, Mar 2021).
 * Seminar at the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu/events/statistics-seminars/statistics-seminar-speaker-marta-catalano-02042021) (Ithaca, NY, Virtual, Feb 2021).
 * Invited talk at [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) 13th International Conference of the ERCIM WG on Computational and Methodological Statistics (Virtual, Dec 2020).
 * Poster session at [WiML](https://wimlworkshop.org/neurips2020/cfp/) 15th Workshop for Women in Machine Learning co-located with [NeurIPS](https://neurips.cc/Conferences/2020) (Virtual, Dec 2020)
