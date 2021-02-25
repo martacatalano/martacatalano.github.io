@@ -43,19 +43,20 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1.  **Posterior asymptotics for boosted hierarchical Dirichlet process mixtures**. <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (submitted).
-2.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
-M. Catalano, A. Lijoi and I. Prünster (under revision).<br>
-Winner of the ASA-[SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
-1. **Transport distances on random vectors of measures: recent advances in Bayesian nonparametrics.** <br>
+1.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
+M. Catalano, A. Lijoi and I. Prünster (2021).<br>
+The Annals od Statistics, forthcoming. <br>
+Winner of the ASA-[SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition
+2. **Transport distances on random vectors of measures: recent advances in Bayesian nonparametrics.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
-Special Volume of the XV CLAPEM, Birkhäuser. To appear.
-2.  **Approximation of Bayesian models for time-to-event data.** <br>
+Special Volume of the XV CLAPEM, Birkhäuser, forthcoming.
+3.  **Approximation of Bayesian models for time-to-event data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
 Electronic Journal of Statistics, 14, 3366-3395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211)).
-3.  **Bayesian model comparison based on Wasserstein distances.** <br>
+4.  **Bayesian model comparison based on Wasserstein distances.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2019). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
 
