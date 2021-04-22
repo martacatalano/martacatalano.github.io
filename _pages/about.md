@@ -62,6 +62,6 @@ M. Catalano, A. Lijoi and I. Prünster (2019). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Awards  </font></p>
-* [IMS](https://community.amstat.org/sbss/awards) New Researcher Travel Award (2021)
+* [IMS](https://imstat.org/2021/04/13/recipients-of-the-2021-ims-new-researcher-travel-awards-announced/) New Researcher Travel Award (2021)
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
