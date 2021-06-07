@@ -15,8 +15,8 @@ I am a postdoctoral researcher at the [University of Torino](https://www.esomas.
 A full version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_May2021.pdf).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Interests  </font></p>
-* **Bayesian nonparametrics** and its applications to survival analysis.
-* Optimal transport and **Wasserstein** distances in BNP.
+* **Bayesian nonparametrics** 
+* **Statistical optimal transport** and Wasserstein distances
 * Stochastic and point processes with a particular focus on **completely random measures**.
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
