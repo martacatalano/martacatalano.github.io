@@ -11,8 +11,8 @@ redirect_from:
 <p style = "margin-bottom:20px;"><font  size="7" >  Marta Catalano <br> </font> </p>
   
   
-I am a postdoctoral researcher at the [University of Torino](https://www.esomas.unito.it/do/home.pl) working with [Pierpaolo De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/). Previously, I  obtained a PhD in Statistics at [Bocconi](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). I am also member of the "de Castro" Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/), of the [Bayes Lab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home) at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)) and of the [MIDAS](https://midas.mat.uc.cl/network/) Complex Data Modeling Research Network.<br> 
-A full version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_May2021.pdf).
+I am a postdoctoral researcher at the [University of Torino](https://www.esomas.unito.it/do/home.pl) working with [Pierpaolo De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/). Previously, I  obtained a PhD in Statistics at [Bocconi](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). I am also member of the "de Castro" Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/), of the [BayesLab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home) at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)) and of the [MIDAS](https://midas.mat.uc.cl/network/) Complex Data Modeling Research Network.<br> 
+A full version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jul2021.pdf).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Interests  </font></p>
 * **Bayesian nonparametrics** 
@@ -42,8 +42,10 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * B.Sc. [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) Mathematics and Statistics at Bocconi University (AY 2018/2019, 2017/2018).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
+1.  **A Wasserstein index of dependence for random measures.**. <br>
+M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (working paper).
 1.  **Posterior asymptotics for boosted hierarchical Dirichlet process mixtures**. <br>
-M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (submitted).
+M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (under revision).
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
