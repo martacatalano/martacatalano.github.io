@@ -42,7 +42,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * B.Sc. [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) Mathematics and Statistics at Bocconi University (AY 2018/2019, 2017/2018).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
-1.  **A Wasserstein index of dependence for random measures.**. <br>
+1.  **A Wasserstein index of dependence for random measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (submitted).
 1.  **Posterior asymptotics for boosted hierarchical Dirichlet process mixtures**. <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (under revision).
