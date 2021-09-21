@@ -16,9 +16,9 @@ Previously, I was a postdoc at the [University of Torino](https://www.esomas.uni
 A full version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jul2021.pdf).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Interests  </font></p>
-* **Bayesian nonparametrics** 
-* **Statistical optimal transport** and Wasserstein distances
-* Stochastic processes and **random measures**.
+* Bayesian nonparametrics 
+* Statistical optimal transport and Wasserstein distances
+* Stochastic processes and random measures
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
