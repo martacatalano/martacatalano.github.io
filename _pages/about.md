@@ -11,7 +11,7 @@ redirect_from:
 <p style = "margin-bottom:20px;"><font  size="7" >  Marta Catalano <br> </font> </p>
   
   
-I am a Harrison Early Career Assistant Professor in the [Department of Statistics](https://warwick.ac.uk/fac/sci/statistics/) at the University of Warwick. 
+I am a Harrison Early Career Assistant Professor in the [Department of Statistics](https://warwick.ac.uk/fac/sci/statistics/) at the University of Warwick. <br> 
 Previously, I was a postdoc at the [University of Torino](https://www.esomas.unito.it/do/home.pl)  with [Pierpaolo De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/). I  obtained my PhD in Statistics at [Bocconi](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). I am also member of the "de Castro" Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/), of the [BayesLab](https://www.bayeslab.unibocconi.eu/wps/wcm/connect/Cdr/Bayeslab/Home) at the Bocconi Institute for Data Science and Analytics ([BIDSA](https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home)) and of the [MIDAS](https://midas.mat.uc.cl/network/) Complex Data Modeling Research Network.<br> 
 A full version of my CV may be found [here](https://martacatalano.github.io/files/MartaCatalano_CV_Jul2021.pdf).
 
