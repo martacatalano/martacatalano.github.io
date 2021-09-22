@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marta Catalano"
 title_separator          : "-"
 name                     : &name "Marta Catalano"
-description              : &description "Assistant Professor in the Statistics Department at the University of Warwick"
+description              : &description "Assistant Professor, Statistics Department, University of Warwick"
 url                      : https://martacatalano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martacatalano/martacatalano.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Marta Catalano"
   avatar           : "profile.png"
-  bio              : "Assistant Professor in the Statistics Department at the University of Warwick.<br>marta.catalano @ warwick.ac.uk"
+  bio              : "Assistant Professor, Statistics Department, University of Warwick.<br>marta.catalano @ warwick.ac.uk"
   location         : #"Warwick, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=jVrWR0EAAAAJ&hl=it"
