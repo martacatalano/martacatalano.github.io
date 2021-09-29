@@ -68,8 +68,8 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * Invited talk at [SIS 2019](https://mathesia.com/sis19/?fbclid=IwAR3h-QDTWSaAOL-jkIJa1OtfCxhTVf6AhrmTVSDayywFTAMRzD2dDVeYKvs) Smart Statistics for Smart Applications (Milano, Italy, Jun 2019).
 * Invited talk at [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Italy, Jun 2019).
 
-<p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching Assistant  </font></p>
-* M.Sc. [ECO0152](https://www.finance-insurance.unito.it/do/corsi.pl/Show?_id=2cfa) Numerical and Statistical Methods for Finance at University of Torino (AY 2020/2021).
-* M.Sc. [20179](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=6351) Data Analysis at Bocconi University (AY 2020/2021, 2019/2020, 2018/2019, 2017/2018).
-* B.Sc. [30401](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) Mathematics and Statistics at Bocconi University (AY 2018/2019, 2017/2018).
+<p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching  </font></p>
+* TA, [Numerical and Statistical Methods for Finance](https://www.finance-insurance.unito.it/do/corsi.pl/Show?_id=2cfa) at University of Torino (AY 2020/2021).
+* TA, [Data Analysis](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=6351) at Bocconi University (AY 2020/2021, 2019/2020, 2018/2019, 2017/2018).
+* TA, [Mathematics and Statistics](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) at Bocconi University (AY 2018/2019, 2017/2018).
 
