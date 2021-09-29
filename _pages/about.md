@@ -69,6 +69,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * Invited talk at [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Italy, Jun 2019).
 
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching  </font></p>
+* [Bayesian Forecasting and Intervention](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st337/) at University of Warwick (AY 2021/2022)
 * TA, [Numerical and Statistical Methods for Finance](https://www.finance-insurance.unito.it/do/corsi.pl/Show?_id=2cfa) at University of Torino (AY 2020/2021).
 * TA, [Data Analysis](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=6351) at Bocconi University (AY 2020/2021, 2019/2020, 2018/2019, 2017/2018).
 * TA, [Mathematics and Statistics](http://didattica.unibocconi.eu/ts/tsn_anteprima.php?IdPag=6164&anno=2019&cod_ins=30401) at Bocconi University (AY 2018/2019, 2017/2018).
