@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Marta Catalano"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, Statistics Department, University of Warwick.<br>marta.catalano @ warwick.ac.uk"
+  bio              : "Assistant Professor, Department of Statistics, University of Warwick."
   location         : #"Warwick, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=jVrWR0EAAAAJ&hl=it"
-  email            : # "marta.catalano@phd.unibocconi.it"
+  email            : "marta.catalano@warwick.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
