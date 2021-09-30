@@ -72,5 +72,5 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * [Bayesian Forecasting and Intervention](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st337/) at University of Warwick (AY 2021/2022)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact  </font></p>
-marta.catalano@warwick.ac.uk
+marta.catalano@warwick.ac.uk <br> 
 Department of Statistics, University of Warwick, CV4 7AL Coventry UK
