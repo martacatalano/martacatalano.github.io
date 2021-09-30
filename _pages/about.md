@@ -73,3 +73,4 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact  </font></p>
 marta.catalano@warwick.ac.uk
+Department of Statistics, University of Warwick, CV4 7AL Coventry UK
