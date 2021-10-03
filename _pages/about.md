@@ -24,7 +24,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  News  </font></p>
 * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick starts on Oct 6 2021 in blended mode. Contact the organisers to join! 
 * Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (22 Oct 2021).
-* Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar). (London, 3 Nov 2021)
+* Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, 3 Nov 2021)
 * Invited talk at the [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) (Oaxaca, Nov 2021).
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022).
 
@@ -55,10 +55,6 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
-* Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) 16th World Meeting of the International Society of Bayesian Analysis (Montreal, Jun 2022).
-* Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop on Foundations of Objective Bayesian Methodology (Oaxaca, Nov 2021).
-* Seminar at the Department of Statistical Science, [University College London](https://www.ucl.ac.uk/statistics/seminar). (London, Nov 2021)
-* Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (Oct 2021).
 * Invited talk at [JSM](https://ww2.amstat.org/meetings/jsm/2021/) Joint Statistical Meeting (Aug 2021).
 * Invited talk at [ISBA 2020](https://bayesian.org/isba2020-home/) 15th World Meeting of the International Society of Bayesian Analysis (Jun 2021).
 * Invited talk at [ECOSTA 2021](http://www.cmstatistics.org/EcoSta2021/)  4th International Conference on Econometrics and Statistics (Jun 2021).
