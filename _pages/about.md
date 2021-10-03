@@ -49,7 +49,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
-* Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) 16th World Meeting of the International Society of Bayesian Analysis (Jun 2022).
+* Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) 16th World Meeting of the International Society of Bayesian Analysis (Montreal, Jun 2022).
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop on Foundations of Objective Bayesian Methodology (Oaxaca, Nov 2021).
 * Seminar at the Department of Statistical Science, [University College London](https://www.ucl.ac.uk/statistics/seminar). (London, Nov 2021)
 * Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (Oct 2021).
