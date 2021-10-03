@@ -23,10 +23,10 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  News  </font></p>
 * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick starts on Oct 6 in blended mode. Contact the organisers to join! 
-* Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (22 Oct 2021).
+* Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (22 Oct 2021)
 * Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, 3 Nov 2021)
-* Invited talk at the [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021).
-* Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022).
+* Invited talk at the [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021)
+* Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1.  **A Wasserstein index of dependence for random measures**. <br>
@@ -55,20 +55,20 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
-* Invited talk at [JSM](https://ww2.amstat.org/meetings/jsm/2021/) Joint Statistical Meeting (Aug 2021).
-* Invited talk at [ISBA 2020](https://bayesian.org/isba2020-home/) 15th World Meeting of the International Society of Bayesian Analysis (Jun 2021).
-* Invited talk at [ECOSTA 2021](http://www.cmstatistics.org/EcoSta2021/)  4th International Conference on Econometrics and Statistics (Jun 2021).
-* Seminar at the Department of Economics, [University of Bergamo](https://dse.unibg.it/it/eventi/marta-catalano-measuring-dependence-the-wasserstein-distance-for-bayesian-nonparametric) (May 2021).
+* Invited talk at [JSM](https://ww2.amstat.org/meetings/jsm/2021/) (Aug 2021)
+* Invited talk at [ISBA 2020](https://bayesian.org/isba2020-home/) (Jun 2021)
+* Invited talk at [ECOSTA 2021](http://www.cmstatistics.org/EcoSta2021/) (Jun 2021)
+* Seminar at the Department of Economics, [University of Bergamo](https://dse.unibg.it/it/eventi/marta-catalano-measuring-dependence-the-wasserstein-distance-for-bayesian-nonparametric) (May 2021)
 * Invited talk at the [One World YoungStatS webinar](https://youngstats.github.io/post/2021/04/06/bnp-webinar/) (Apr 2021)
-* Seminar at the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu/events/statistics-seminars/statistics-seminar-speaker-marta-catalano-02042021) (Feb 2021).
-* Invited talk at [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) 13th International Conference of the ERCIM WG on Computational and Methodological Statistics (Dec 2020).
-* Poster session at [WiML](https://wimlworkshop.org/neurips2020/cfp/) 15th Workshop for Women in Machine Learning co-located with [NeurIPS](https://neurips.cc/Conferences/2020) (Dec 2020)
-* Invited talk at [BAYSM:O](https://j-isba.github.io/baysmo.html) Bayesian Young Statisticians Meeting: Online (Nov 2020)
-* Contributed talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (Aug 2020).
-* Invited talk at [XV CLAPEM 2019](http://clapem2019.eventos.cimat.mx/home) Latin American Congress of Probability and Mathematical Statistics (Mérida, Dec 2019).
-* Poster session at [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) Objective Bayes Methodology Conference (Warwick, Jun 2019).
-* Poster session at [BNP12](http://www.stats.ox.ac.uk/bnp12/) 12th International Conference on Bayesian Nonparametrics (Oxford, Jun 2019)
-* Invited talk at [SIS 2019](https://mathesia.com/sis19/?fbclid=IwAR3h-QDTWSaAOL-jkIJa1OtfCxhTVf6AhrmTVSDayywFTAMRzD2dDVeYKvs) Smart Statistics for Smart Applications (Milano, Jun 2019).
+* Seminar at the Department of Statistics and Data Science at [Cornell University](https://stat.cornell.edu/events/statistics-seminars/statistics-seminar-speaker-marta-catalano-02042021) (Feb 2021)
+* Invited talk at [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) (Dec 2020)
+* Poster session at [WiML](https://wimlworkshop.org/neurips2020/cfp/) Workshop co-located with [NeurIPS](https://neurips.cc/Conferences/2020) (Dec 2020)
+* Invited talk at [BAYSM:O](https://j-isba.github.io/baysmo.html) (Nov 2020)
+* Contributed talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (Aug 2020)
+* Invited talk at [XV CLAPEM 2019](http://clapem2019.eventos.cimat.mx/home) (Mérida, Dec 2019).
+* Poster session at [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) (Warwick, Jun 2019)
+* Poster session at [BNP12](http://www.stats.ox.ac.uk/bnp12/) (Oxford, Jun 2019)
+* Invited talk at [SIS 2019](https://mathesia.com/sis19/?fbclid=IwAR3h-QDTWSaAOL-jkIJa1OtfCxhTVf6AhrmTVSDayywFTAMRzD2dDVeYKvs) (Milano, Jun 2019).
 * Invited talk at [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Jun 2019).
 
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching  </font></p>
