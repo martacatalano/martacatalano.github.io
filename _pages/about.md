@@ -25,7 +25,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick starts on Oct 6 in blended mode. Contact the organisers to join! 
 * Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (22 Oct 2021).
 * Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, 3 Nov 2021)
-* Invited talk at the [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) (Oaxaca, Nov 2021).
+* Invited talk at the [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021).
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
