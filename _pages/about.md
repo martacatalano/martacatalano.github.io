@@ -22,7 +22,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Stochastic processes and random measures
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  News  </font></p>
-* The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick starts on Oct 6 in blended mode. Contact the organisers to join! 
+* The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick starts on Oct 6 in hybrid mode. Contact the organisers to join! 
 * Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (22 Oct 2021)
 * Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, 3 Nov 2021)
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021)
@@ -73,6 +73,9 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching  </font></p>
 * [Bayesian Forecasting and Intervention](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st337/) at University of Warwick (AY 2021/2022)
+* [Numerical and Statistical Methods for Finance](https://www.finance-insurance.unito.it/do/storicocorsi.pl/Show?_id=2cfa_2021) at University of Torino (TA, AY 2020/2021)
+* [Data Analysis](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=5066) at Bocconi University (TA, AY 2020/2021, 2019/2020, 2018/2019, 2017/2018)
+* [Mathematics and Statistics](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30401&anno=2019&IdPag=6162) at Bocconi University (TA, AY 2018/2019, 2017/2018)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact  </font></p>
 marta.catalano@warwick.ac.uk <br> 
