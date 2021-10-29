@@ -23,7 +23,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  News  </font></p>
 * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick starts on Oct 6 in hybrid mode. Contact the organisers to join! 
-* Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, 3 Nov 2021)
+* Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, 4 Nov 2021)
 * Invited talk at JB^3 for [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) (12 Nov 2021)
 * Invited talk at the [Algorithms & Computationally Intensive Inference seminars](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/) at University of Warwick (19 Nov 2021)
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021)
