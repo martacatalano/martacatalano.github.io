@@ -23,7 +23,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  News  </font></p>
 * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick starts on Oct 6 in hybrid mode. Contact the organisers to join! 
-* Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, 4 Nov 2021)
 * Invited talk at JB^3 for [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) (12 Nov 2021)
 * Invited talk at the [Algorithms & Computationally Intensive Inference seminars](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/) at University of Warwick (19 Nov 2021)
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021)
@@ -58,6 +57,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
+* Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, 4 Nov 2021)
 * Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (Oct 2021)
 * Invited talk at [JSM](https://ww2.amstat.org/meetings/jsm/2021/) (Aug 2021)
 * Invited talk at [ISBA 2020](https://bayesian.org/isba2020-home/) (Jun 2021)
