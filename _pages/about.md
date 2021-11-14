@@ -26,7 +26,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Invited talk at the [Algorithms & Computationally Intensive Inference seminars](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/) at University of Warwick (19 Nov 2021)
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021)
 * Seminar at the School of Mathematics, [Cardiff University](https://www.cardiff.ac.uk/mathematics) (24 Mar 2022)
-* * Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
+* Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
 
 
