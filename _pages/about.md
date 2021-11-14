@@ -27,6 +27,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021)
 * Seminar at the School of Mathematics, [Cardiff University](https://www.cardiff.ac.uk/mathematics) (24 Mar 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
+* Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1.  **A Wasserstein index of dependence for random measures**. <br>
