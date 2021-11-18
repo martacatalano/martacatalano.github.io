@@ -44,8 +44,8 @@ M. Catalano, A. Lijoi and I. Prünster (2021).<br>
 The Annals of Statistics, 49 (5), 2916-2947 ([pdf](https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Measuring-dependence-in-the-Wasserstein-distance-for-Bayesian-nonparametric-models/10.1214/21-AOS2065.short)). <br>
 Winner of the ASA-[SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition
 2. **Transport distances on random vectors of measures: recent advances in Bayesian nonparametrics.** <br>
-M. Catalano, A. Lijoi and I. Prünster (2020). <br>
-Special Volume of the XV CLAPEM, Birkhäuser, forthcoming.
+M. Catalano, A. Lijoi and I. Prünster (2021). <br>
+In Advances in Probability and Mathematical Statistics, Springer, 59-70.
 3.  **Approximation of Bayesian models for time-to-event data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
 Electronic Journal of Statistics, 14, 3366-3395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211)).
