@@ -21,7 +21,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Statistical optimal transport and Wasserstein distances
 * Stochastic processes and random measures
 
-<p style = "margin-bottom:5px;"> <font size="5" > <br>  News  </font></p>
+<p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming events  </font></p>
 * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick starts on Oct 6 in hybrid mode. Contact the organisers to join! 
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, 29 Nov 2021)
 * Seminar at the [Applied Maths Seminars](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/applmath/) at University of Warwick (11 Feb 2022)
