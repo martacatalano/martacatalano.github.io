@@ -24,9 +24,9 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! 
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, 29 Nov 2021)
-* Seminar at the [Applied Maths Seminars](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/applmath/) at University of Warwick (11 Feb 2022)
+* Seminar at the [Applied Maths Seminars](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/applmath/), University of Warwick (11 Feb 2022)
 * Seminar at the School of Mathematics, [Cardiff University](https://www.cardiff.ac.uk/mathematics) (24 Mar 2022)
-* Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/) at Inria Paris (6 Apr 2022)
+* Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)
 * Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
 
@@ -69,12 +69,12 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * Invited talk at the [One World YoungStatS webinar](https://youngstats.github.io/post/2021/04/06/bnp-webinar/) (Apr 2021)
 * Seminar at the Department of Statistics and Data Science, [Cornell University](https://stat.cornell.edu/events/statistics-seminars/statistics-seminar-speaker-marta-catalano-02042021) (Feb 2021)
 * Invited talk at [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) (Dec 2020)
-* Poster session at [WiML](https://wimlworkshop.org/neurips2020/cfp/) Workshop co-located with [NeurIPS](https://neurips.cc/Conferences/2020) (Dec 2020)
+* Poster at [WiML](https://wimlworkshop.org/neurips2020/cfp/) Workshop co-located with [NeurIPS](https://neurips.cc/Conferences/2020) (Dec 2020)
 * Invited talk at [BAYSM:O](https://j-isba.github.io/baysmo.html) (Nov 2020)
 * Contributed talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (Aug 2020)
 * Invited talk at [XV CLAPEM 2019](http://clapem2019.eventos.cimat.mx/home) (Mérida, Dec 2019).
-* Poster session at [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) (Warwick, Jun 2019)
-* Poster session at [BNP12](http://www.stats.ox.ac.uk/bnp12/) (Oxford, Jun 2019)
+* Poster at [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) (Warwick, Jun 2019)
+* Poster at [BNP12](http://www.stats.ox.ac.uk/bnp12/) (Oxford, Jun 2019)
 * Invited talk at [SIS 2019](https://mathesia.com/sis19/?fbclid=IwAR3h-QDTWSaAOL-jkIJa1OtfCxhTVf6AhrmTVSDayywFTAMRzD2dDVeYKvs) (Milano, Jun 2019).
 * Invited talk at [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Jun 2019).
 
