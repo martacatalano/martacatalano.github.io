@@ -40,7 +40,7 @@ M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (under revision).
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
 1.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
 M. Catalano, A. Lijoi and I. Prünster (2021).<br>
-The Annals of Statistics, 49 (5), 2916-2947 ([pdf](https://martacatalano.github.io/files/AOS2065.pdf), [YoungStatS blog post](https://youngstats.github.io/post/2022/01/17/measuring-dependence-in-the-wasserstein-distance-for-bayesian-nonparametric-models/)). <br>
+The Annals of Statistics, 49 (5), 2916-2947 ([pdf](https://martacatalano.github.io/files/AOS2065.pdf), [YoungStatS blog](https://youngstats.github.io/post/2022/01/17/measuring-dependence-in-the-wasserstein-distance-for-bayesian-nonparametric-models/)). <br>
 Winner of the ASA-[SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition
 2. **Transport distances on random vectors of measures: recent advances in Bayesian nonparametrics.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2021). <br>
