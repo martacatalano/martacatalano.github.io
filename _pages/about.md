@@ -24,6 +24,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! 
 * Seminar at the School of Mathematics, [Cardiff University](https://www.cardiff.ac.uk/mathematics) (24 Mar 2022)
+* Seminar at the Department of Economics and Finance, [Luiss](https://economiaefinanza.luiss.it/seminar/2022/03/04/wasserstein-index-dependence-bayesian-nonparametric-modeling) (31 Mar 2022)
 * Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)
 * Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
 * Seminar at the School od Mathematics, [University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics) (16 May 2022)
