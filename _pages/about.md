@@ -60,7 +60,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * Seminar at the School of Mathematics, [Cardiff University](https://www.cardiff.ac.uk/mathematics) (Mar 2022)
 * Seminar at the [Applied Maths Seminars](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/applmath/), University of Warwick (Feb 2022)
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021)
-* Invited talk at the [Algorithms & Computationally Intensive Inference seminars](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/) at University of Warwick (Nov 2021)
+* Seminar at the [Algorithms & Computationally Intensive Inference Seminars](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/) at University of Warwick (Nov 2021)
 * Invited talk at JB^3 for [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) (Nov 2021)
 * Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, Nov 2021)
 * Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (Oct 2021)
