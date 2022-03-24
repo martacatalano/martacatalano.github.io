@@ -23,7 +23,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! 
-* Seminar at the School of Mathematics, [Cardiff University](https://www.cardiff.ac.uk/mathematics) (24 Mar 2022)
 * Seminar at the Department of Economics and Finance, [Luiss](https://economiaefinanza.luiss.it/seminar/2022/03/04/wasserstein-index-dependence-bayesian-nonparametric-modeling) (31 Mar 2022)
 * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed)
 * Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
@@ -58,6 +57,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
+* Seminar at the School of Mathematics, [Cardiff University](https://www.cardiff.ac.uk/mathematics) (Mar 2022)
 * Seminar at the [Applied Maths Seminars](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/applmath/), University of Warwick (Feb 2022)
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021)
 * Invited talk at the [Algorithms & Computationally Intensive Inference seminars](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/) at University of Warwick (Nov 2021)
