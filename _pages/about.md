@@ -29,6 +29,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Seminar at the School od Mathematics, [University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics) (Edinburgh, 16 May 2022)
 * Contributed talk at [100 UMI - 800 UniPD](https://www.100umi800unipd.it/) (Padova, 26 May 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
+* Contributed talk at [BNP13](https://midas.mat.uc.cl/bnp13/) (Puerto Varas, Oct 2022)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1.  **A Wasserstein index of dependence for random measures**. <br>
