@@ -26,7 +26,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
 * Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
 * Seminar at the  [StatML CDT](https://statml.io/), Imperial College London & University of Oxford (London, 19 May 2022)
-* Seminar at the School od Mathematics, [University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics) (16 May 2022)
+* Seminar at the School od Mathematics, [University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics) (Edinburgh, 16 May 2022)
 * Contributed talk at [100 UMI - 800 UniPD](https://www.100umi800unipd.it/) (Padova, 26 May 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
 
@@ -59,11 +59,11 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
-* Seminar at the Department of Economics and Finance, [Luiss](https://economiaefinanza.luiss.it/seminar/2022/03/04/wasserstein-index-dependence-bayesian-nonparametric-modeling) (Mar 2022)
-* Seminar at the School of Mathematics, [Cardiff University](https://www.cardiff.ac.uk/mathematics) (Mar 2022)
-* Seminar at the [Applied Maths Seminars](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/applmath/), University of Warwick (Feb 2022)
+* Seminar at the Department of Economics and Finance, [Luiss](https://economiaefinanza.luiss.it/seminar/2022/03/04/wasserstein-index-dependence-bayesian-nonparametric-modeling) (Rome, Mar 2022)
+* Seminar at the School of Mathematics, [Cardiff University](https://www.cardiff.ac.uk/mathematics) (Cardiff, Mar 2022)
+* Seminar at the [Applied Maths Seminars](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/applmath/), University of Warwick (Coventry, Feb 2022)
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021)
-* Seminar at the [Algorithms & Computationally Intensive Inference Seminars](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/) at University of Warwick (Nov 2021)
+* Seminar at the [Algorithms & Computationally Intensive Inference Seminars](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/) at University of Warwick (Coventry, Nov 2021)
 * Invited talk at JB^3 for [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) (Nov 2021)
 * Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, Nov 2021)
 * Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (Oct 2021)
