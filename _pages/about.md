@@ -25,7 +25,9 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! 
 * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed)
 * Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
+* Seminar at the  [StatML CDT](https://statml.io/), Imperial College London & University of Oxford (London, 19 May 2022)
 * Seminar at the School od Mathematics, [University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics) (16 May 2022)
+* Contributed talk at [100 UMI - 800 UniPD](https://www.100umi800unipd.it/) (Padova, 26 May 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
