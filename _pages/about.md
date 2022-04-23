@@ -26,6 +26,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
 * Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
 * Seminar at the School od Mathematics, [University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics) (Edinburgh, 16 May 2022)
+* Seminar at [S3AI](https://www.s3ai.at/overview.html), JK Universität Linz (18 May 2022). 
 * Seminar at the  [StatML CDT](https://statml.io/), Imperial College London & University of Oxford (London, 19 May 2022)
 * Contributed talk at [100 UMI - 800 UniPD](https://www.100umi800unipd.it/) (Padova, 26 May 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
