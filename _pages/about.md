@@ -34,7 +34,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1.  **A Wasserstein index of dependence for random measures**. <br>
-M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (submitted, [pdf](https://arxiv.org/pdf/2109.06646.pdf)).
+M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (under revision, [pdf](https://arxiv.org/pdf/2109.06646.pdf)).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
 1.  **Posterior asymptotics for boosted hierarchical Dirichlet process mixtures**. <br>
