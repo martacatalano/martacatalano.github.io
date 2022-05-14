@@ -38,7 +38,7 @@ M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (under revision, [pdf](https
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
 1.  **Posterior asymptotics for boosted hierarchical Dirichlet process mixtures**. <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (2022).  <br>
-Journal of Machine Learning Research, forthcoming ([pdf](https://martacatalano.github.io/files/jmlr_paper20220315083458.pdf)). 
+Journal of Machine Learning Research, 23(80), 1−23 ([pdf](https://jmlr.org/papers/v23/20-1474.html)). 
 2.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
 M. Catalano, A. Lijoi and I. Prünster (2021).<br>
 The Annals of Statistics, 49 (5), 2916-2947 ([pdf](https://martacatalano.github.io/files/AOS2065.pdf), [YoungStatS blog](https://youngstats.github.io/post/2022/01/17/measuring-dependence-in-the-wasserstein-distance-for-bayesian-nonparametric-models/)). <br>
