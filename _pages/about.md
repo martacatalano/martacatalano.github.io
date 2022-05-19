@@ -24,10 +24,10 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 <!-- * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! -->
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
-* Seminar at the  [StatML CDT](https://statml.io/), Imperial College London & University of Oxford (London, 19 May 2022)
-* Contributed talk at [100 UMI - 800 UniPD](https://www.100umi800unipd.it/) (Padova, 26 May 2022)
+* Talk at [100 UMI - 800 UniPD](https://www.100umi800unipd.it/) (Padova, 26 May 2022)
+* Invited talk at the Workshop on Bayesian nonparametrics, [Postech](https://pamainweb03.postech.ac.kr/eng/workshop-on-bayesian-nonparametrics/#post-24269) (Pohang, 31 May 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
-* Contributed talk at [BNP13](https://midas.mat.uc.cl/bnp13/) (Puerto Varas, Oct 2022)
+* Talk at [BNP13](https://midas.mat.uc.cl/bnp13/) (Puerto Varas, Oct 2022)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1.  **A Wasserstein index of dependence for random measures**. <br>
@@ -58,6 +58,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
+* Seminar at the  [StatML CDT](https://statml.io/), Imperial College London & University of Oxford (London, 19 May 2022)
 * Seminar at [S3AI](https://www.s3ai.at/overview.html), JK Universität Linz (May 2022).
 * Seminar at the School of Mathematics, [University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics) (Edinburgh, May 2022)
 * Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
@@ -78,7 +79,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * Invited talk at [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) (Dec 2020)
 * Poster at [WiML](https://wimlworkshop.org/neurips2020/cfp/) Workshop co-located with [NeurIPS](https://neurips.cc/Conferences/2020) (Dec 2020)
 * Invited talk at [BAYSM:O](https://j-isba.github.io/baysmo.html) (Nov 2020)
-* Contributed talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (Aug 2020)
+* Talk at [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (Aug 2020)
 * Invited talk at [XV CLAPEM 2019](http://clapem2019.eventos.cimat.mx/home) (Mérida, Dec 2019).
 * Poster at [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) (Warwick, Jun 2019)
 * Poster at [BNP12](http://www.stats.ox.ac.uk/bnp12/) (Oxford, Jun 2019)
