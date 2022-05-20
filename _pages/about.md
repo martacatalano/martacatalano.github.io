@@ -26,6 +26,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
 * Talk at [100 UMI - 800 UniPD](https://www.100umi800unipd.it/) (Padova, 26 May 2022)
 * Invited talk at the Workshop on Bayesian nonparametrics, [Postech](https://pamainweb03.postech.ac.kr/eng/workshop-on-bayesian-nonparametrics/#post-24269) (Pohang, 31 May 2022)
+* Invited talk at the [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en) (Bologna, 13 Jun 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
 * Talk at [BNP13](https://midas.mat.uc.cl/bnp13/) (Puerto Varas, Oct 2022)
 
