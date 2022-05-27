@@ -10,7 +10,6 @@ redirect_from:
 
 <p style = "margin-bottom:20px;"><font  size="7" >  Marta Catalano <br> </font> </p>
   
-  
 I am a Harrison Early Career Assistant Professor in the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). <br> 
 Previously, I was a postdoc at the [University of Torino](https://www.esomas.unito.it/do/home.pl)  with [Pierpaolo De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/). I  obtained my PhD in Statistics at [Bocconi](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). <br> 
 I am also member of the "de Castro" Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/), of the [BayesLab](https://bayeslab.unibocconi.eu/) at Bocconi University and of the [MIDAS](https://midas.mat.uc.cl/network/) Complex Data Modeling Research Network.<br> 
@@ -24,7 +23,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 <!-- * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! -->
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
-* Talk at [100 UMI - 800 UniPD](https://www.100umi800unipd.it/) (Padova, 26 May 2022)
 * Invited talk at the Workshop on Bayesian nonparametrics, [Postech](https://pamainweb03.postech.ac.kr/eng/workshop-on-bayesian-nonparametrics/#post-24269) (Pohang, 31 May 2022)
 * Invited talk at the [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en) (Bologna, 13 Jun 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
@@ -59,7 +57,8 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
-* Seminar at the  [StatML CDT](https://statml.io/), Imperial College London & University of Oxford (London, 19 May 2022)
+* Talk at [100 UMI - 800 UniPD](https://www.100umi800unipd.it/) (Padova, May 2022)
+* Seminar at the  [StatML CDT](https://statml.io/), Imperial College London & University of Oxford (London, May 2022)
 * Seminar at [S3AI](https://www.s3ai.at/overview.html), JK Universität Linz (May 2022).
 * Seminar at the School of Mathematics, [University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics) (Edinburgh, May 2022)
 * Invited talk at [BNP networking workshop](http://cyprusconferences.org/bnp2022/) (Nicosia, Apr 2022)
