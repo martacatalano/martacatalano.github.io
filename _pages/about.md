@@ -26,7 +26,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Invited talk at the [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en) (Bologna, 13 Jun 2022)
 * Talk at [SIS2022](https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta) (Caserta, 24 Jun 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
-* * Invited talk at [Bernoulli Young Researcher Event 2022](https://docs.google.com/forms/d/e/1FAIpQLScBLLqQFJ-hxq3ygGPUXTKzdixud1e0OguM-P2GiiJ6-x-SQw/viewform) (Online, 21 July 2022)
+* Invited talk at [Bernoulli Young Researcher Event 2022](https://docs.google.com/forms/d/e/1FAIpQLScBLLqQFJ-hxq3ygGPUXTKzdixud1e0OguM-P2GiiJ6-x-SQw/viewform) (Online, 21 July 2022)
 * Talk at [BNP13](https://midas.mat.uc.cl/bnp13/) (Puerto Varas, Oct 2022)
 
 
