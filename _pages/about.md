@@ -23,7 +23,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 <!-- * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! -->
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
-* Talk at [SIS2022](https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta) (Caserta, 24 Jun 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, 29 Jun 2022)
 * Invited talk at [Bernoulli Young Researcher Event 2022](https://docs.google.com/forms/d/e/1FAIpQLScBLLqQFJ-hxq3ygGPUXTKzdixud1e0OguM-P2GiiJ6-x-SQw/viewform) (Online, 21 July 2022)
 * Talk at [BNP13](https://midas.mat.uc.cl/bnp13/) (Puerto Varas, Oct 2022)
@@ -59,6 +58,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
+* Talk at [SIS2022](https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta) (Caserta, Jun 2022)
 * Invited talk at the [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en) (Bologna, Jun 2022)
 * Invited talk at the Workshop on Bayesian nonparametrics, [Postech](https://pamainweb03.postech.ac.kr/eng/workshop-on-bayesian-nonparametrics/#post-24269) (Pohang, May 2022)
 * Talk at [100 UMI - 800 UniPD](https://www.100umi800unipd.it/) (Padova, May 2022)
