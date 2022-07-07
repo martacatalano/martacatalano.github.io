@@ -24,7 +24,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <!-- * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! -->
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
 * Invited talk at [Bernoulli Young Researcher Event 2022](https://docs.google.com/forms/d/e/1FAIpQLScBLLqQFJ-hxq3ygGPUXTKzdixud1e0OguM-P2GiiJ6-x-SQw/viewform) (Online, 21 July 2022)
-* Talk at [BNP13](https://midas.mat.uc.cl/bnp13/) (Puerto Varas, Oct 2022)
+* Invited talk at [BNP13](https://midas.mat.uc.cl/bnp13/) (Puerto Varas, Oct 2022)
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
