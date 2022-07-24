@@ -57,7 +57,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
-* Invited talk at [Bernoulli Young Researcher Event 2022](https://docs.google.com/forms/d/e/1FAIpQLScBLLqQFJ-hxq3ygGPUXTKzdixud1e0OguM-P2GiiJ6-x-SQw/viewform) (Online, 21 July 2022)
+* Invited talk at [Bernoulli Young Researcher Event 2022](https://docs.google.com/forms/d/e/1FAIpQLScBLLqQFJ-hxq3ygGPUXTKzdixud1e0OguM-P2GiiJ6-x-SQw/viewform) (Jul 2022)
 * Invited talk at [ISBA 2022](https://isbawebmaster.github.io/ISBA2022/) (Montreal, Jun 2022)
 * Talk at [SIS2022](https://meetings3.sis-statistica.org/index.php/SIS2022/Caserta) (Caserta, Jun 2022)
 * Invited talk at the [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en) (Bologna, Jun 2022)
