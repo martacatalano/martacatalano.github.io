@@ -24,6 +24,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <!-- * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! -->
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
 * Invited talk at [BNP13](https://midas.mat.uc.cl/bnp13/) (Puerto Varas, Oct 2022)
+* Seminar at the department of Mathematics, [University of York](https://www.york.ac.uk/maths/) (York, 24 Nov 2022)
 * Seminar at the [Statistics Seminars](https://www.carloalberto.org/research/statistics-initiative/), Collegio Carlo Alberto (Torino, Dec 2022)
 * Invited talk at [IISA](https://www.intindstat.org/conference2022/index) (Bangalore, Dec 2022)
 
@@ -72,7 +73,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * Seminar at the School of Mathematics, [Cardiff University](https://www.cardiff.ac.uk/mathematics) (Cardiff, Mar 2022)
 * Seminar at the [Applied Maths Seminars](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/applmath/), University of Warwick (Coventry, Feb 2022)
 * Invited talk at [BIRS-CMO](https://www.birs.ca/events/2021/5-day-workshops/21w5107) Workshop (Oaxaca, Nov 2021)
-* Seminar at the [Algorithms & Computationally Intensive Inference Seminars](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/) at University of Warwick (Coventry, Nov 2021)
+* Seminar at the [Algorithms & Computationally Intensive Inference Seminars](https://warwick.ac.uk/fac/sci/statistics/news/algorithms-seminars/), University of Warwick (Coventry, Nov 2021)
 * Invited talk at JB^3 for [Blackwell-Rosenbluth Award](https://j-isba.github.io/blackwell-rosenbluth.html) (Nov 2021)
 * Seminar at the Department of Statistical Sciences,  [University College London](https://www.ucl.ac.uk/statistics/seminar) (London, Nov 2021)
 * Invited talk at [OxWaSP](http://www.oxwasp-cdt.ac.uk/overview-of-course-events.html) Annual Workshop (Oct 2021)
