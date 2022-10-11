@@ -34,7 +34,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (under revision, [pdf](https://arxiv.org/pdf/2109.06646.pdf)).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
-1 **Wasserstein distance and applications to Bayesian nonparametrics**. <br>
+1.  **Wasserstein distance and applications to Bayesian nonparametrics**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2022). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf)).
 2.  **Posterior asymptotics for boosted hierarchical Dirichlet process mixtures**. <br>
