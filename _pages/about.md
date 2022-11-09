@@ -26,6 +26,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Seminar at the department of Mathematics, [University of York](https://www.york.ac.uk/maths/) (York, 24 Nov 2022)
 * Seminar at the [Statistics Seminars](https://www.carloalberto.org/research/statistics-initiative/), Collegio Carlo Alberto (Torino, Dec 2022)
 * Invited talk at [IISA](https://www.intindstat.org/conference2022/index) (Bangalore, Dec 2022)
+* Invited talk at the workshop *Emerging Topics in Applications of Optimal Transport* at ETH (Zürich, Jun 2023)
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
@@ -35,12 +36,12 @@ M. Catalano and H. Lavenant (preprint). <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (under revision, [pdf](https://arxiv.org/pdf/2109.06646.pdf)).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
-1.  **Wasserstein distance and applications to Bayesian nonparametrics**. <br>
-M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2022). <br>
-Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf)).
-2.  **Posterior asymptotics for boosted hierarchical Dirichlet process mixtures**. <br>
+1.  **Posterior asymptotics for boosted hierarchical Dirichlet process mixtures**. <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (2022).  <br>
 Journal of Machine Learning Research, 23(80), 1−23 ([pdf](https://jmlr.org/papers/v23/20-1474.html)). 
+2.  **Wasserstein distance and applications to Bayesian nonparametrics**. <br>
+M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2022). <br>
+Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf)).
 3.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
 M. Catalano, A. Lijoi and I. Prünster (2021).<br>
 The Annals of Statistics, 49 (5), 2916-2947 ([pdf](https://martacatalano.github.io/files/AOS2065.pdf), [YoungStatS blog](https://youngstats.github.io/post/2022/01/17/measuring-dependence-in-the-wasserstein-distance-for-bayesian-nonparametric-models/)). <br>
