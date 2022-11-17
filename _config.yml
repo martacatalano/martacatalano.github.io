@@ -84,9 +84,9 @@ author:
   name             : "Marta Catalano"
   avatar           : "Profile2.jpeg"
   bio              : "Assistant Professor, Department of Statistics, University of Warwick."
-  location         : #"Warwick, UK"
+  location         : # "Warwick, UK"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=jVrWR0EAAAAJ&hl=it"
+  googlescholar    : # "https://scholar.google.com/citations?user=jVrWR0EAAAAJ&hl=it"
   email            : "marta.catalano@warwick.ac.uk"
   uri              :
   bitbucket        :
