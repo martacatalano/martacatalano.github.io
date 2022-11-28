@@ -30,7 +30,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1. **Impact of the prior in Bayesian nonparametrics via optimal transport on random measures**. <br>
-M. Catalano and H. Lavenant (preprint). <br>
+M. Catalano and H. Lavenant (submitted). <br>
 2.  **A Wasserstein index of dependence for random measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (under revision, [pdf](https://arxiv.org/pdf/2109.06646.pdf)).
 
