@@ -23,7 +23,8 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 <!-- * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! -->
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
-* Seminar at the [Statistics Seminars](https://www.carloalberto.org/research/statistics-initiative/), Collegio Carlo Alberto (Torino, Dec 2022)
+* Short course on *Dependent nonparametric priors via completely random measures* (Torino, Dec 2022)
+* Seminar at the [Statistics Seminars](https://www.carloalberto.org/research/statistics-initiative/), Collegio Carlo Alberto (Torino, 16 Dec 2022)
 * Invited talk at [IISA](https://www.intindstat.org/conference2022/index) (Bangalore, Dec 2022)
 * Invited talk at the workshop *Emerging Topics in Applications of Optimal Transport* at ETH (Zürich, Jun 2023)
 
