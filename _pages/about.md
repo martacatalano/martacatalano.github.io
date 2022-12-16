@@ -23,9 +23,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 <!-- * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! -->
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
-* Short course on *Dependent nonparametric priors via completely random measures* (Torino, Dec 2022)
-* Seminar at the [Statistics Seminars](https://www.carloalberto.org/research/statistics-initiative/), Collegio Carlo Alberto (Torino, 16 Dec 2022)
-* Invited talk at [IISA](https://www.intindstat.org/conference2022/index) (Bangalore, Dec 2022)
+* Invited talk at [IISA](https://www.intindstat.org/conference2022/index) (Bangalore, 27 Dec 2022)
 * Invited talk at the workshop *Emerging Topics in Applications of Optimal Transport* at ETH (Zürich, Jun 2023)
 
 
@@ -64,6 +62,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
+* Seminar at the [Statistics Seminars](https://www.carloalberto.org/research/statistics-initiative/), Collegio Carlo Alberto (Torino, Dec 2022)
 * Seminar at the department of Mathematics, [University of York](https://www.york.ac.uk/maths/) (York, Nov 2022)
 * Invited talk at [BNP13](https://midas.mat.uc.cl/bnp13/) (Puerto Varas, Oct 2022)
 * Invited talk at [Bernoulli Young Researcher Event 2022](https://docs.google.com/forms/d/e/1FAIpQLScBLLqQFJ-hxq3ygGPUXTKzdixud1e0OguM-P2GiiJ6-x-SQw/viewform) (Jul 2022)
@@ -101,6 +100,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * Invited talk at [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Jun 2019).
 
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching  </font></p>
+* Short course on *Dependent nonparametric priors via completely random measures* (Torino, Dec 2022)
 * [Bayesian Forecasting and Intervention](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st337/) at University of Warwick (AY 2021/2022, 2022/2023)
 * [Numerical and Statistical Methods for Finance](https://www.finance-insurance.unito.it/do/storicocorsi.pl/Show?_id=2cfa_2021) at University of Torino (TA, AY 2020/2021)
 * [Data Analysis](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=5066) at Bocconi University (TA, AY 2020/2021, 2019/2020, 2018/2019, 2017/2018)
