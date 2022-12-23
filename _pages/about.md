@@ -100,11 +100,11 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * Invited talk at [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Jun 2019).
 
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching  </font></p>
-* Short course on [Dependent nonparametric priors via completely random measures](https://www.master-sds.unito.it/do/home.pl/View?doc=visitingprofessors.html) (Torino, Dec 2022)
-* [Bayesian Forecasting and Intervention](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st337/) at University of Warwick (AY 2021/2022, 2022/2023)
-* [Numerical and Statistical Methods for Finance](https://www.finance-insurance.unito.it/do/storicocorsi.pl/Show?_id=2cfa_2021) at University of Torino (TA, AY 2020/2021)
-* [Data Analysis](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=5066) at Bocconi University (TA, AY 2020/2021, 2019/2020, 2018/2019, 2017/2018)
-* [Mathematics and Statistics](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30401&anno=2019&IdPag=6162) at Bocconi University (TA, AY 2018/2019, 2017/2018)
+* Short course on [Dependent nonparametric priors via completely random measures](https://www.master-sds.unito.it/do/home.pl/View?doc=visitingprofessors.html), University of Torino (AY 2022/2023)
+* [Bayesian Forecasting and Intervention](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st337/), University of Warwick (AY 2021/2022, 2022/2023)
+* [Numerical and Statistical Methods for Finance](https://www.finance-insurance.unito.it/do/storicocorsi.pl/Show?_id=2cfa_2021), University of Torino (TA, AY 2020/2021)
+* [Data Analysis](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=5066), Bocconi University (TA, AY 2020/2021, 2019/2020, 2018/2019, 2017/2018)
+* [Mathematics and Statistics](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30401&anno=2019&IdPag=6162), Bocconi University (TA, AY 2018/2019, 2017/2018)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact  </font></p>
 marta.catalano@warwick.ac.uk <br> 
