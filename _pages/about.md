@@ -61,7 +61,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://
 * [IMS](https://imstat.org/2021/04/13/recipients-of-the-2021-ims-new-researcher-travel-awards-announced/) New Researcher Travel Award (2021)
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
-<p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations & Posters  </font></p>
+<p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
 * Invited talk at [IISA](https://www.intindstat.org/conference2022/index) (Bangalore, Dec 2022)
 * Seminar at the [Statistics Seminars](https://www.carloalberto.org/research/statistics-initiative/), Collegio Carlo Alberto (Torino, Dec 2022)
 * Seminar at the department of Mathematics, [University of York](https://www.york.ac.uk/maths/) (York, Nov 2022)
