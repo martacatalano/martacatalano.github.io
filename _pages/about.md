@@ -22,7 +22,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
-<!-- * Seminar at the [Statistics Seminar](https://www.imperial.ac.uk/statistics/seminars/statistics-seminar/), Imperial College London (London, May 2023) -->
+* Seminar at the [Statistics Seminar](https://www.imperial.ac.uk/statistics/seminars/statistics-seminar/), Imperial College London (London, 26 May 2023)
 * Invited talk, Workshop *Emerging Topics in Applications of Optimal Transport* at ETH (Zürich, Jun 2023)
 * Scientific committee member, Workshop *Approximation Methods in Bayesian Analysis* at CIRM (Marseille, Jun 2023)
 
