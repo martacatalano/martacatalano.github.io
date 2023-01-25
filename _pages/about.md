@@ -21,8 +21,8 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Stochastic processes and random measures
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
-<!-- * The [Optimal Transport in Statistics](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/otsrg/) reading group at Warwick has started on Oct 6 in hybrid mode. Contact the organisers to join! -->
 <!-- * ~~Seminar at [MOKAPLAN](https://team.inria.fr/mokaplan/), Inria Paris (6 Apr 2022)~~ (postponed) -->
+<!-- * Seminar at the [Statistics Seminar](https://www.imperial.ac.uk/statistics/seminars/statistics-seminar/), Imperial College London (London, May 2023) -->
 * Invited talk, Workshop *Emerging Topics in Applications of Optimal Transport* at ETH (Zürich, Jun 2023)
 * Scientific committee member, Workshop *Approximation Methods in Bayesian Analysis* at CIRM (Marseille, Jun 2023)
 
