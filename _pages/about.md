@@ -25,7 +25,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Invited talk, [SIAM-IMA Student Chapter Conference](https://www.maths.manchester.ac.uk/~siam/msiscc23/), University of Manchester (Manchester, 27 Apr 2023)
 * Seminar at the [Statistics Seminar](https://www.imperial.ac.uk/statistics/seminars/statistics-seminar/), Imperial College London (London, 26 May 2023)
 * Invited talk, Workshop [Emerging Topics in Applications of Optimal Transport](https://eth-its.ethz.ch/activities/Transport.html) at ETH (Zürich, Jun 2023)
-* Scientific committee member, Workshop *Approximation Methods in Bayesian Analysis* at CIRM (Marseille, Jun 2023)
+* Scientific committee member, Workshop (Approximation Methods in Bayesian Analysis)[https://conferences.cirm-math.fr/2768.html] at CIRM (Marseille, Jun 2023)
 * Invited talk, [ECOSTA 2023](http://www.cmstatistics.org/EcoSta2023/) (Tokyo, Aug 2023)
 * Invited talk, [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
 
