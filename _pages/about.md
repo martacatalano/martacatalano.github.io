@@ -26,6 +26,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Workshop [Emerging Topics in Applications of Optimal Transport](https://eth-its.ethz.ch/activities/Transport.html) at ETH (Zürich, Jun 2023)
 * Workshop [Approximation Methods in Bayesian Analysis](https://conferences.cirm-math.fr/2768.html) at CIRM (Marseille, Jun 2023)
 * [ECOSTA 2023](http://www.cmstatistics.org/EcoSta2023/) (Tokyo, Aug 2023)
+* [Autumn school](https://bayesatcirm.github.io/2023/) in Bayesian Statistics at CIRM (Marseille, Nov 2023)
 <!-- * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)-->
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
