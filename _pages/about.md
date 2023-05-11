@@ -30,29 +30,29 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <!-- * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)-->
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
-1. **Merging rate of opinions via optimal transport on random measures**. <br>
-M. Catalano and H. Lavenant (submitted). <br>
-2.  **A Wasserstein index of dependence for random measures**. <br>
+1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
+M. Catalano and H. Lavenant (submitted, [pdf](https://arxiv.org/pdf/2305.06116.pdf)). <br>
+2.  **A Wasserstein Index of Dependence for Random Measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (under revision, [pdf](https://arxiv.org/pdf/2109.06646.pdf)).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
-1.  **Posterior asymptotics for boosted hierarchical Dirichlet process mixtures**. <br>
+1.  **Posterior Asymptotics for Boosted Hierarchical Dirichlet Process Mixtures**. <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (2022).  <br>
 Journal of Machine Learning Research, 23(80), 1−23 ([pdf](https://jmlr.org/papers/v23/20-1474.html)). 
-2.  **Wasserstein distance and applications to Bayesian nonparametrics**. <br>
+2.  **Wasserstein Distance and Applications to Bayesian Nonparametrics**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2022). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf)).
-3.  **Measuring dependence in the Wasserstein distance for Bayesian nonparametric models**. <br> 
+3.  **Measuring Dependence in the Wasserstein Distance for Bayesian Nonparametric Models**. <br> 
 M. Catalano, A. Lijoi and I. Prünster (2021).<br>
 The Annals of Statistics, 49 (5), 2916-2947 ([pdf](https://martacatalano.github.io/files/AOS2065.pdf), [YoungStatS blog](https://youngstats.github.io/post/2022/01/17/measuring-dependence-in-the-wasserstein-distance-for-bayesian-nonparametric-models/)). <br>
 Winner of the ASA-[SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition
-4. **Transport distances on random vectors of measures: recent advances in Bayesian nonparametrics.** <br>
+4. **Transport Distances on Random Vectors of Measures: Recent Advances in Bayesian Nonparametrics.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2021). <br>
 In Advances in Probability and Mathematical Statistics, Springer, 59-70. ([link](https://link.springer.com/chapter/10.1007/978-3-030-85325-9_4)).
-5.  **Approximation of Bayesian models for time-to-event data.** <br>
+5.  **Approximation of Bayesian Models for Time-to-Event Data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
 Electronic Journal of Statistics, 14, 3366-3395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211)).
-6.  **Bayesian model comparison based on Wasserstein distances.** <br>
+6.  **Bayesian Model Comparison based on Wasserstein Distances.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2019). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
 
