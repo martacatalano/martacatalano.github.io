@@ -46,12 +46,12 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 3.  **Measuring Dependence in the Wasserstein Distance for Bayesian Nonparametric Models**. <br> 
 M. Catalano, A. Lijoi and I. Prünster (2021).<br>
 The Annals of Statistics, 49 (5), 2916-2947. <br>
-[[pdf]](https://martacatalano.github.io/files/2021_AOS.pdf) [[bib]](https://martacatalano.github.io/files/2021_AOS.bib) [[web]](https://doi.org/10.1214/21-AOS2065) <br>
-Winner of the [ASA-SBSS 2021 Student Paper Competition](https://community.amstat.org/sbss/awards), featured on [YoungStatS blog](https://youngstats.github.io/post/2022/01/17/measuring-dependence-in-the-wasserstein-distance-for-bayesian-nonparametric-models/)).
+[[pdf]](https://martacatalano.github.io/files/2021_AOS.pdf) [[bib]](https://martacatalano.github.io/files/2021_AOS.bib) [[web]](https://doi.org/10.1214/21-AOS2065) [[YoungStatS blog]](https://youngstats.github.io/post/2022/01/17/measuring-dependence-in-the-wasserstein-distance-for-bayesian-nonparametric-models/) <br>
+Winner of the [ASA-SBSS]](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition.
 4. **Transport Distances on Random Vectors of Measures: Recent Advances in Bayesian Nonparametrics.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2021). <br>
 In Advances in Probability and Mathematical Statistics, Springer, 59-70. <br>
-[[pdf]](https://martacatalano.github.io/files/2021_CLAPEM.pdf) [[bib]](https://martacatalano.github.io/files/2021_CLAPEM.bib) [[web]]([https://doi.org/10.1214/21-AOS2065](https://link.springer.com/chapter/10.1007/978-3-030-85325-9_4))
+[[pdf]](https://martacatalano.github.io/files/2021_CLAPEM.pdf) [[bib]](https://martacatalano.github.io/files/2021_CLAPEM.bib) [[web]](https://link.springer.com/chapter/10.1007/978-3-030-85325-9_4)
 5.  **Approximation of Bayesian Models for Time-to-Event Data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
 Electronic Journal of Statistics, 14, 3366-3395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211)).
