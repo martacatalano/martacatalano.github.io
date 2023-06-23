@@ -35,15 +35,15 @@ M. Catalano and H. Lavenant (submitted, [pdf](https://arxiv.org/pdf/2305.06116.p
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (under revision, [pdf](https://arxiv.org/pdf/2109.06646.pdf)).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
-1.  **Posterior Asymptotics for Boosted Hierarchical Dirichlet Process Mixtures**. [[pdf]](https://martacatalano.github.io/files/2022_JMLR.pdf) [[bib]](https://martacatalano.github.io/files/2022_JMLR.bib) [[web]](https://jmlr.org/papers/v23/20-1474.html)  <br>
+1.  **Posterior Asymptotics for Boosted Hierarchical Dirichlet Process Mixtures**. <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (2022).  <br>
-Journal of Machine Learning Research, 23(80), 1−23. 
+Journal of Machine Learning Research, 23(80), 1−23. [[pdf]](https://martacatalano.github.io/files/2022_JMLR.pdf) [[bib]](https://martacatalano.github.io/files/2022_JMLR.bib) [[web]](https://jmlr.org/papers/v23/20-1474.html)
 2.  **Wasserstein Distance and Applications to Bayesian Nonparametrics**. [[pdf]](https://martacatalano.github.io/files/2022_SIS.pdf) [[bib]](https://martacatalano.github.io/files/2022_SIS.bib) [[web]](https://it.pearson.com/docenti/universita/partnership/sis.html)<br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2022). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson.
 3.  **Measuring Dependence in the Wasserstein Distance for Bayesian Nonparametric Models**. [[pdf]](https://martacatalano.github.io/files/2021_AOS.pdf) [[bib]](https://martacatalano.github.io/files/2021_AOS.bib) [[web]](https://doi.org/10.1214/21-AOS2065) <br> 
 M. Catalano, A. Lijoi and I. Prünster (2021).<br>
-The Annals of Statistics, 49 (5), 2916-2947. <br>  
+The Annals of Statistics, 49 (5), 2916-2947. <br>
 Winner of the [ASA-SBSS 2021 Student Paper Competition](https://community.amstat.org/sbss/awards), featured on [YoungStatS blog](https://youngstats.github.io/post/2022/01/17/measuring-dependence-in-the-wasserstein-distance-for-bayesian-nonparametric-models/)).
 4. **Transport Distances on Random Vectors of Measures: Recent Advances in Bayesian Nonparametrics.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2021). <br>
