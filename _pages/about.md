@@ -35,9 +35,9 @@ M. Catalano and H. Lavenant (submitted, [pdf](https://arxiv.org/pdf/2305.06116.p
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (under revision, [pdf](https://arxiv.org/pdf/2109.06646.pdf)).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
-1.  **Posterior Asymptotics for Boosted Hierarchical Dirichlet Process Mixtures**. <br>
+1.  **Posterior Asymptotics for Boosted Hierarchical Dirichlet Process Mixtures**. [[pdf]](https://martacatalano.github.io/files/2022_JMLR.pdf) [[bib]](https://martacatalano.github.io/files/2022_JMLR.bib) [[web]](https://jmlr.org/papers/v23/20-1474.html)  <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (2022).  <br>
-Journal of Machine Learning Research, 23(80), 1−23 ([pdf](https://jmlr.org/papers/v23/20-1474.html)). 
+Journal of Machine Learning Research, 23(80), 1−23. 
 2.  **Wasserstein Distance and Applications to Bayesian Nonparametrics**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2022). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Sis-2022-4c-low.pdf)).
