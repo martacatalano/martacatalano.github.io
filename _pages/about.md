@@ -54,10 +54,12 @@ In Advances in Probability and Mathematical Statistics, Springer, 59-70. <br>
 [[pdf]](https://martacatalano.github.io/files/2021_CLAPEM.pdf) [[bib]](https://martacatalano.github.io/files/2021_CLAPEM.bib) [[web]](https://link.springer.com/chapter/10.1007/978-3-030-85325-9_4)
 5.  **Approximation of Bayesian Models for Time-to-Event Data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
-Electronic Journal of Statistics, 14, 3366-3395 ([pdf](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1599811211)).
+Electronic Journal of Statistics, 14, 3366-3395. <br>
+[[pdf]](https://martacatalano.github.io/files/2020_EJS.pdf) [[bib]](https://martacatalano.github.io/files/2020_EJS.bib) [[web]](https://doi.org/10.1214/20-EJS1746)
 6.  **Bayesian Model Comparison based on Wasserstein Distances.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2019). <br>
-Book of Short Papers of the Italian Statistical Society, Pearson ([pdf](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI-HE-PDF-sis2019_V4.pdf)).
+Book of Short Papers of the Italian Statistical Society, Pearson. <br>
+[[pdf]](https://martacatalano.github.io/files/2019_SIS.pdf) [[bib]](https://martacatalano.github.io/files/2019_SIS.bib) [[web]](https://it.pearson.com/docenti/universita/partnership/sis.html)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Awards  </font></p>
 * Faculty of Science, Engineering and Medicine Postdoctoral Prize, University of Warwick (2022)
