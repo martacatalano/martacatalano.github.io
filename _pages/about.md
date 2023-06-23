@@ -35,7 +35,7 @@ M. Catalano and H. Lavenant (submitted, [pdf](https://arxiv.org/pdf/2305.06116.p
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (under revision, [pdf](https://arxiv.org/pdf/2109.06646.pdf)).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
-1.  **Bayesian modeling via discrete nonparametric priors**. <br>
+1.  **Bayesian Modeling via Discrete Nonparametric Priors**. <br>
 M. Catalano, A. Lijoi, I. Prünster and T. Rigon (2023).  <br>
 Japanese Journal of Statistics and Data Science. <br>
 [[pdf]](https://martacatalano.github.io/files/2023_JJSDS.pdf) [[bib]](https://martacatalano.github.io/files/2023_JJSDS.bib) [[web]](https://doi.org/10.1007/s42081-023-00210-5)
