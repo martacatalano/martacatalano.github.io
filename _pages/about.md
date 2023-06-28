@@ -21,11 +21,9 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Stochastic processes and random measures
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
-* Workshop [Emerging Topics in Applications of Optimal Transport](https://eth-its.ethz.ch/activities/Transport.html), ETH (Zürich, Jun 2023)
-* Workshop [Approximation Methods in Bayesian Analysis](https://conferences.cirm-math.fr/2768.html), CIRM (Marseille, Jun 2023)
-* Workshop [Distance-based methods in Machine Learning](https://dbmml.github.io/), UCL (London, Jun 2023)
 * [ECOSTA 2023](http://www.cmstatistics.org/EcoSta2023/) (Tokyo, Aug 2023)
 * [Autumn School](https://bayesatcirm.github.io/2023/) in Bayesian Statistics, CIRM (Marseille, Nov 2023)
+<!-- * Workshop [Approximation Methods in Bayesian Analysis](https://conferences.cirm-math.fr/2768.html), CIRM (Marseille, Jun 2023) -->
 <!-- * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)-->
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
@@ -73,6 +71,8 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* Workshop [Emerging Topics in Applications of Optimal Transport](https://eth-its.ethz.ch/activities/Transport.html), ETH (Zürich, Jun 2023)
+* Workshop [Distance-based methods in Machine Learning](https://dbmml.github.io/), UCL (London, Jun 2023)
 * [Statistics Seminar](https://www.imperial.ac.uk/statistics/seminars/statistics-seminar/), Imperial College London (London, May 2023)
 * [SIAM-IMA Student Chapter Conference](https://www.maths.manchester.ac.uk/~siam/msiscc23/), University of Manchester (Manchester, Apr 2023)
 * [IISA](https://www.intindstat.org/conference2022/index) (Bangalore, Dec 2022)
