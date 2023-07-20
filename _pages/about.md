@@ -13,7 +13,7 @@ redirect_from:
 I am a Harrison Early Career Assistant Professor in the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). <br> 
 Previously, I was a postdoc at the [University of Torino](https://www.esomas.unito.it/do/home.pl)  with [Pierpaolo De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/). I  obtained my PhD in Statistics at [Bocconi](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). <br> 
 I am also member of the "de Castro" Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/), of the [BayesLab](https://bayeslab.unibocconi.eu/) at Bocconi University and of the [MIDAS](https://midas.mat.uc.cl/network/) Complex Data Modeling Research Network.<br> 
-A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_23.06.pdf).
+A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_23.07.pdf).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Interests  </font></p>
 * Bayesian nonparametrics 
@@ -21,9 +21,10 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Stochastic processes and random measures
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
+* [ACM TOPML](https://dl.acm.org/journal/topml) journal is now open to submissions!
 * [ECOSTA 2023](http://www.cmstatistics.org/EcoSta2023/) (Tokyo, Aug 2023)
 * [Autumn School](https://bayesatcirm.github.io/2023/) in Bayesian Statistics, CIRM (Marseille, Nov 2023)
-<!-- * Workshop [Approximation Methods in Bayesian Analysis](https://conferences.cirm-math.fr/2768.html), CIRM (Marseille, Jun 2023) -->
+
 <!-- * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)-->
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
