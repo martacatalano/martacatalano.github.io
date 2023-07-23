@@ -21,7 +21,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Stochastic processes and random measures
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
-* [ACM TOPML](https://dl.acm.org/journal/topml) journal is now open to submissions!
+* [ACM TOPML](https://dl.acm.org/journal/topml) journal is now open to submissions
 * [ECOSTA 2023](http://www.cmstatistics.org/EcoSta2023/) (Tokyo, Aug 2023)
 * [Autumn School](https://bayesatcirm.github.io/2023/) in Bayesian Statistics, CIRM (Marseille, Nov 2023)
 
