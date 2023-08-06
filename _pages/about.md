@@ -22,7 +22,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * [ACM TOPML](https://dl.acm.org/journal/topml) journal is now open to submissions
-* [ECOSTA 2023](http://www.cmstatistics.org/EcoSta2023/) (Tokyo, Aug 2023)
 * [Autumn School](https://bayesatcirm.github.io/2023/) in Bayesian Statistics, CIRM (Marseille, Nov 2023)
 
 <!-- * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)-->
@@ -72,6 +71,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* [ECOSTA 2023](http://www.cmstatistics.org/EcoSta2023/) (Tokyo, Aug 2023)
 * Workshop [Emerging Topics in Applications of Optimal Transport](https://eth-its.ethz.ch/activities/Transport.html), ETH (Zürich, Jun 2023)
 * Workshop [Distance-based methods in Machine Learning](https://dbmml.github.io/), UCL (London, Jun 2023)
 * [Statistics Seminar](https://www.imperial.ac.uk/statistics/seminars/statistics-seminar/), Imperial College London (London, May 2023)
