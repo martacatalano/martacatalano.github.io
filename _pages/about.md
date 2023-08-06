@@ -105,12 +105,12 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * [One World YoungStatS webinar](https://youngstats.github.io/post/2021/04/06/bnp-webinar/) (Apr 2021)
 * Department of Statistics and Data Science, [Cornell University](https://stat.cornell.edu/events/statistics-seminars/statistics-seminar-speaker-marta-catalano-02042021) (Feb 2021)
 * [CMSTATISTICS 2020](http://cmstatistics.org/CMStatistics2020/) (Dec 2020)
-* [WiML](https://wimlworkshop.org/neurips2020/cfp/) Workshop co-located with [NeurIPS](https://neurips.cc/Conferences/2020) (Dec 2020)
+<!-- * [WiML](https://wimlworkshop.org/neurips2020/cfp/) Workshop co-located with [NeurIPS](https://neurips.cc/Conferences/2020) (Dec 2020) -->
 * [BAYSM:O](https://j-isba.github.io/baysmo.html) (Nov 2020)
 * [Bernoulli-IMS One World Symposium 2020](https://www.worldsymposium2020.org/home) (Aug 2020)
 * [XV CLAPEM 2019](http://clapem2019.eventos.cimat.mx/home) (Mérida, Dec 2019).
-* [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) (Warwick, Jun 2019)
-* [BNP12](http://www.stats.ox.ac.uk/bnp12/) (Oxford, Jun 2019)
+<!-- * [O'Bayes 2019](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/robert/0bayesconference/) (Warwick, Jun 2019) -->
+<!-- * [BNP12](http://www.stats.ox.ac.uk/bnp12/) (Oxford, Jun 2019) -->
 * [SIS 2019](https://mathesia.com/sis19/?fbclid=IwAR3h-QDTWSaAOL-jkIJa1OtfCxhTVf6AhrmTVSDayywFTAMRzD2dDVeYKvs) (Milano, Jun 2019).
 * [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Jun 2019).
 
