@@ -30,7 +30,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (submitted, [[arXiv]](https://arxiv.org/pdf/2305.06116.pdf)). <br>
 2.  **A Unified Approach to Hierarchical Random Measures**. <br> 
-M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (submitted).
+M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (under revision).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
 1.  **A Wasserstein Index of Dependence for Random Measures**. <br>
