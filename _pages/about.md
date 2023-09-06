@@ -28,14 +28,14 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
-M. Catalano and H. Lavenant (submitted, [pdf](https://arxiv.org/pdf/2305.06116.pdf)). <br>
+M. Catalano and H. Lavenant (submitted, [[pdf]](https://arxiv.org/pdf/2305.06116.pdf)). <br>
 2.  **A Unified Approach to Hierarchical Random Measures**. <br> 
 M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (submitted).
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
 1.  **A Wasserstein Index of Dependence for Random Measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster. <br>
-Journal of the American Statistical Association, forthcoming. [pdf](https://arxiv.org/pdf/2109.06646.pdf)).
+Journal of the American Statistical Association, forthcoming. [[pdf]](https://arxiv.org/pdf/2109.06646.pdf).
 2.  **Bayesian Modeling via Discrete Nonparametric Priors**. <br>
 M. Catalano, A. Lijoi, I. Prünster and T. Rigon (2023).  <br>
 Japanese Journal of Statistics and Data Science. <br>
