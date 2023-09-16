@@ -11,8 +11,8 @@ redirect_from:
 <p style = "margin-bottom:20px;"><font  size="7" >  Marta Catalano <br> </font> </p>
 
 I am an Assistant professor of Statistics at [Luiss University](https://economiaefinanza.luiss.it/en) in Rome. <br>
-Previously, I was an Harrison Early Career Assistant Professor at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). I am affiliated to the “de Castro” Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/) and to the BayesLab at [Bocconi University](https://bayeslab.unibocconi.eu/). <br>
-A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_23.09.pdf)
+Previously, I was an Harrison Early Career Assistant Professor at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). I am also affiliated to the “de Castro” Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/) and to the BayesLab at [Bocconi University](https://bayeslab.unibocconi.eu/). <br>
+A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_23.09.pdf).
 
 <!-- * I am a Harrison Early Career Assistant Professor in the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). <br> 
 Previously, I was a postdoc at the [University of Torino](https://www.esomas.unito.it/do/home.pl)  with [Pierpaolo De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/). I  obtained my PhD in Statistics at [Bocconi](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). <br> 
@@ -130,5 +130,5 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * [Mathematics and Statistics](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30401&anno=2019&IdPag=6162), Bocconi University (TA, AY 2018/2019, 2017/2018)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Contact  </font></p>
-marta.catalano@warwick.ac.uk <br> 
-Department of Statistics, University of Warwick, CV4 7AL Coventry UK
+mcatalano@luiss.it <br> 
+Luiss University, Viale Romania 32, 00197, Roma, Italy.
