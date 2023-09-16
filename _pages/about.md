@@ -125,7 +125,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching  </font></p>
 * [Advanced Statistics](https://www.luiss.it/cattedreonline/corso/DSM01/0/LMDSMBASE/2023), Luiss University (AY 2023/2024)
 * [Machine Learning](https://www.luiss.it/cattedreonline/corso/EM61/0/19FLMBASE/2023), Luiss University (AY 2023/2024)
-* [Dependent nonparametric priors via completely random measures](https://www.master-sds.unito.it/do/home.pl/View?doc=visitingprofessors.html), University of Torino (Short course, 2022)
+* [Dependent nonparametric priors via CRMs](https://www.master-sds.unito.it/do/home.pl/View?doc=visitingprofessors.html), University of Torino (Short course, 2022)
 * [Bayesian Forecasting and Intervention](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st3/st337/), University of Warwick (AY 2021/2022, 2022/2023)
 * [Numerical and Statistical Methods for Finance](https://www.finance-insurance.unito.it/do/storicocorsi.pl/Show?_id=2cfa_2021), University of Torino (TA, AY 2020/2021)
 * [Data Analysis](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20179&anno=2021&IdPag=5066), Bocconi University (TA, AY 2020/2021, 2019/2020, 2018/2019, 2017/2018)
