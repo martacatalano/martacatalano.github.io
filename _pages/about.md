@@ -11,7 +11,7 @@ redirect_from:
 <p style = "margin-bottom:20px;"><font  size="7" >  Marta Catalano <br> </font> </p>
 
 I am an Assistant professor of Statistics at [Luiss University](https://economiaefinanza.luiss.it/en) in Rome. <br>
-Previously, I was a Harrison Early Career Assistant Professor at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). I am also affiliated to the “de Castro” Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/) and to the BayesLab at [Bocconi University](https://bayeslab.unibocconi.eu/). <br>
+Previously, I was a Harrison Early Career Assistant Professor at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). I am also affiliated to the de Castro Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/) and to the BayesLab at [Bocconi University](https://bayeslab.unibocconi.eu/). <br>
 A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_23.09.pdf).
 
 <!-- * I am a Harrison Early Career Assistant Professor in the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). <br> 
