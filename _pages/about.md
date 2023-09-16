@@ -36,7 +36,7 @@ M. Catalano and H. Lavenant (submitted, [[arXiv]](https://arxiv.org/pdf/2305.061
 2.  **A Unified Approach to Hierarchical Random Measures**. <br> 
 M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (under revision).
 
-<p style = "margin-bottom:5px;"> <font size="5" > <br> Publications  </font></p>
+<p style = "margin-bottom:5px;"> <font size="5" > <br> Main Publications  </font></p>
 1.  **A Wasserstein Index of Dependence for Random Measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster. <br>
 Journal of the American Statistical Association, forthcoming. <br>
@@ -49,27 +49,27 @@ Japanese Journal of Statistics and Data Science. <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (2022).  <br>
 Journal of Machine Learning Research, 23(80), 1−23. <br>
 [[pdf]](https://martacatalano.github.io/files/2022_JMLR.pdf) [[bib]](https://martacatalano.github.io/files/2022_JMLR.bib) [[web]](https://jmlr.org/papers/v23/20-1474.html)
-4.  **Wasserstein Distance and Applications to Bayesian Nonparametrics**. <br>
+<!-- * 4.  **Wasserstein Distance and Applications to Bayesian Nonparametrics**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2022). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson. <br>
-[[pdf]](https://martacatalano.github.io/files/2022_SIS.pdf) [[bib]](https://martacatalano.github.io/files/2022_SIS.bib) [[web]](https://it.pearson.com/docenti/universita/partnership/sis.html)
-5.  **Measuring Dependence in the Wasserstein Distance for Bayesian Nonparametric Models**. <br> 
+[[pdf]](https://martacatalano.github.io/files/2022_SIS.pdf) [[bib]](https://martacatalano.github.io/files/2022_SIS.bib) [[web]](https://it.pearson.com/docenti/universita/partnership/sis.html) -->
+4.  **Measuring Dependence in the Wasserstein Distance for Bayesian Nonparametric Models**. <br> 
 M. Catalano, A. Lijoi and I. Prünster (2021).<br>
 The Annals of Statistics, 49 (5), 2916-2947. <br>
 Winner of the [ASA-SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition. <br>
 [[pdf]](https://martacatalano.github.io/files/2021_AOS.pdf) [[bib]](https://martacatalano.github.io/files/2021_AOS.bib) [[web]](https://doi.org/10.1214/21-AOS2065) [[YoungStatS blog]](https://youngstats.github.io/post/2022/01/17/measuring-dependence-in-the-wasserstein-distance-for-bayesian-nonparametric-models/)
-6. **Transport Distances on Random Vectors of Measures: Recent Advances in Bayesian Nonparametrics.** <br>
+<!-- * 6. **Transport Distances on Random Vectors of Measures: Recent Advances in Bayesian Nonparametrics.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2021). <br>
 In Advances in Probability and Mathematical Statistics, Springer, 59-70. <br>
-[[pdf]](https://martacatalano.github.io/files/2021_CLAPEM.pdf) [[bib]](https://martacatalano.github.io/files/2021_CLAPEM.bib) [[web]](https://link.springer.com/chapter/10.1007/978-3-030-85325-9_4)
-7.  **Approximation of Bayesian Models for Time-to-Event Data.** <br>
+[[pdf]](https://martacatalano.github.io/files/2021_CLAPEM.pdf) [[bib]](https://martacatalano.github.io/files/2021_CLAPEM.bib) [[web]](https://link.springer.com/chapter/10.1007/978-3-030-85325-9_4) -->
+5.  **Approximation of Bayesian Models for Time-to-Event Data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
 Electronic Journal of Statistics, 14, 3366-3395. <br>
 [[pdf]](https://martacatalano.github.io/files/2020_EJS.pdf) [[bib]](https://martacatalano.github.io/files/2020_EJS.bib) [[web]](https://doi.org/10.1214/20-EJS1746)
-8.  **Bayesian Model Comparison based on Wasserstein Distances.** <br>
+<!-- *  **Bayesian Model Comparison based on Wasserstein Distances.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2019). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson. <br>
-[[pdf]](https://martacatalano.github.io/files/2019_SIS.pdf) [[bib]](https://martacatalano.github.io/files/2019_SIS.bib) [[web]](https://it.pearson.com/docenti/universita/partnership/sis.html)
+[[pdf]](https://martacatalano.github.io/files/2019_SIS.pdf) [[bib]](https://martacatalano.github.io/files/2019_SIS.bib) [[web]](https://it.pearson.com/docenti/universita/partnership/sis.html) -->
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Awards  </font></p>
 * Faculty of Science, Engineering and Medicine Postdoctoral Prize, University of Warwick (2022)
