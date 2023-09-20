@@ -40,7 +40,7 @@ M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (under revision).
 1.  **A Wasserstein Index of Dependence for Random Measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster. <br>
 Journal of the American Statistical Association, forthcoming. <br>
-[[arXiv]](https://arxiv.org/pdf/2109.06646.pdf).
+[[arXiv]](https://arxiv.org/pdf/2109.06646.pdf) [[web]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2258596).
 2.  **Bayesian Modeling via Discrete Nonparametric Priors**. <br>
 M. Catalano, A. Lijoi, I. Prünster and T. Rigon (2023).  <br>
 Japanese Journal of Statistics and Data Science. <br>
