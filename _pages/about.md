@@ -35,13 +35,13 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2305.06116.pdf) <br>
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Main Publications  </font></p>
-1.  **A Unified Approach to Hierarchical Random Measures**. <br> 
-M. Catalano, C. Del Sole, A. Lijoi, I. Prünster.<br>
-Sankhya A, forthcoming. 
-2.  **A Wasserstein Index of Dependence for Random Measures**. <br>
+1.  **A Wasserstein Index of Dependence for Random Measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2023). <br>
 Journal of the American Statistical Association, forthcoming. <br>
 [[arXiv]](https://arxiv.org/pdf/2109.06646.pdf) [[bib]](https://martacatalano.github.io/files/2023_JASA.bib) [[web]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2258596)
+2.  **A Unified Approach to Hierarchical Random Measures**. <br> 
+M. Catalano, C. Del Sole, A. Lijoi, I. Prünster.<br>
+Sankhya A, forthcoming. 
 3.  **Bayesian Modeling via Discrete Nonparametric Priors**. <br>
 M. Catalano, A. Lijoi, I. Prünster and T. Rigon (2023).  <br>
 Japanese Journal of Statistics and Data Science. <br>
