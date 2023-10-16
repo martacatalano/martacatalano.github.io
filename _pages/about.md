@@ -27,8 +27,12 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * [ACM TOPML](https://dl.acm.org/journal/topml) journal is now open to submissions
 * [Autumn School](https://bayesatcirm.github.io/2023/) in Bayesian Statistics, CIRM (Marseille, Nov 2023)
-
-<!-- * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)-->
+* [Optimal Transport Cargese Workshop](https://otcargeseworkshop.wixsite.com/2024) (Cargèse, Apr 2024)
+* [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) (Rome, Jun 2024)
+* [International Symposium on Nonparametric Statistics](https://w3.math.uminho.pt/ISNPS2024/) (Braga, Jun 2024)
+* [ISBA World Meeting](https://www.unive.it/web/en/2208/home) (Venice, Jul 2024)
+* [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) (Singapore, Jul 2024)
+* [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
