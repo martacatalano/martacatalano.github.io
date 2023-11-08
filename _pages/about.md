@@ -44,7 +44,8 @@ Journal of the American Statistical Association, forthcoming. <br>
 [[arXiv]](https://arxiv.org/pdf/2109.06646.pdf) [[bib]](https://martacatalano.github.io/files/2023_JASA.bib) [[web]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2258596)
 2.  **A Unified Approach to Hierarchical Random Measures**. <br> 
 M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (2023).<br>
-Sankhya A, forthcoming. 
+Sankhya A. <br> 
+[[pdf]](https://martacatalano.github.io/files/2023_Sankhya.pdf) [[bib]](https://martacatalano.github.io/files/2023_Sankhya.bib) [[web]](https://link.springer.com/article/10.1007/s13171-023-00330-w)
 3.  **Bayesian Modeling via Discrete Nonparametric Priors**. <br>
 M. Catalano, A. Lijoi, I. Prünster and T. Rigon (2023).  <br>
 Japanese Journal of Statistics and Data Science. <br>
