@@ -44,11 +44,11 @@ Journal of the American Statistical Association, forthcoming. <br>
 [[arXiv]](https://arxiv.org/pdf/2109.06646.pdf) [[bib]](https://martacatalano.github.io/files/2023_JASA.bib) [[web]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2258596)
 2.  **A Unified Approach to Hierarchical Random Measures**. <br> 
 M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (2023).<br>
-Sankhya A. <br> 
+Sankhya A, forthcoming. <br> 
 [[pdf]](https://martacatalano.github.io/files/2023_Sankhya.pdf) [[bib]](https://martacatalano.github.io/files/2023_Sankhya.bib) [[web]](https://link.springer.com/article/10.1007/s13171-023-00330-w)
 3.  **Bayesian Modeling via Discrete Nonparametric Priors**. <br>
 M. Catalano, A. Lijoi, I. Prünster and T. Rigon (2023).  <br>
-Japanese Journal of Statistics and Data Science. <br>
+Japanese Journal of Statistics and Data Science, 6, 607–624. <br>
 [[pdf]](https://martacatalano.github.io/files/2023_JJSDS.pdf) [[bib]](https://martacatalano.github.io/files/2023_JJSDS.bib) [[web]](https://doi.org/10.1007/s42081-023-00210-5)
 4.  **Posterior Asymptotics for Boosted Hierarchical Dirichlet Process Mixtures**. <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (2022).  <br>
