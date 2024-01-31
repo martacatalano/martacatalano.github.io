@@ -12,7 +12,7 @@ redirect_from:
 
 I am an Assistant professor of Statistics at [Luiss University](https://economiaefinanza.luiss.it/en) in Rome. <br>
 Previously, I was a Harrison Early Career Assistant Professor at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). I am also affiliated to the de Castro Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/) and to the BayesLab at [Bocconi University](https://bayeslab.unibocconi.eu/). <br>
-A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_23.11.pdf).
+A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_24.02.pdf).
 
 <!-- * I am a Harrison Early Career Assistant Professor in the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). <br> 
 Previously, I was a postdoc at the [University of Torino](https://www.esomas.unito.it/do/home.pl)  with [Pierpaolo De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/). I  obtained my PhD in Statistics at [Bocconi](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). <br> 
@@ -34,7 +34,10 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
-1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
+1. **Hierarchical Integral Probability Metrics: A distance on random probability measures
+with low sample complexity **. <br>
+M. Catalano and H. Lavenant (submitted). <br>
+2. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2305.06116.pdf) <br>
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Main Publications  </font></p>
