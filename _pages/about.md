@@ -34,8 +34,8 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
-1. **Hierarchical Integral Probability Metrics**:  <br> 
-A distance on random probability measures with low sample complexity**. <br>
+1. **Hierarchical Integral Probability Metrics:**  <br> 
+A distance on random probability measures with low sample complexity. <br>
 M. Catalano and H. Lavenant (submitted). <br>
 2. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2305.06116.pdf) <br>
