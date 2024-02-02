@@ -36,7 +36,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1. **Hierarchical Integral Probability Metrics:**  <br> 
 **A distance on random probability measures with low sample complexity.** <br>
-M. Catalano and H. Lavenant (submitted). <br>
+M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2402.00423.pdf) <br>
 2. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2305.06116.pdf) <br>
 
