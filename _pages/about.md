@@ -33,6 +33,8 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) (Singapore, Jul 2024)
 * [BNP Networking Workshop 2024](https://bnp-networking2024.github.io/#top) (Singapore, Jul 2024)
 * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
+* Workshop on [Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196/participants) (Oaxaca, Sep 2024)
+* [DEMO2024 Workshop on Dependence Modelling](https://www.vub.be/en/event/demo2024-workshop-dependence-modelling#paragraph-282002) (Ischia, Sep 2024)
 * [COBAL-EBEB 2024](https://www.even3.com.br/cobal-ebeb-2024/) (Belo Horizonte, Dec 2024)
 
 
