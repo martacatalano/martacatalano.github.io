@@ -31,7 +31,10 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [International Symposium on Nonparametric Statistics](https://w3.math.uminho.pt/ISNPS2024/) (Braga, Jun 2024)
 * [ISBA World Meeting](https://www.unive.it/web/en/2208/home) (Venice, Jul 2024)
 * [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) (Singapore, Jul 2024)
+* [BNP Networking Workshop 2024](https://bnp-networking2024.github.io/#top) (Singapore, Jul 2024)
 * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
+* [COBAL-EBEB 2024](https://www.even3.com.br/cobal-ebeb-2024/) (Belo Horizonte, Dec 2024)
+
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
 1. **Hierarchical Integral Probability Metrics:**  <br> 
