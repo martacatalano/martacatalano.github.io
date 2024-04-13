@@ -26,7 +26,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * [ACM TOPML](https://dl.acm.org/journal/topml) journal is now open to submissions
-* [Optimal Transport Cargese Workshop](https://otcargeseworkshop.wixsite.com/2024) (Cargèse, Apr 2024)
 * [BNP-ISBA Webinar](https://bnp-isba.github.io/webinars.html) (Online, 2 May 2024)
 * [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) (Rome, Jun 2024)
 * [International Symposium on Nonparametric Statistics](https://w3.math.uminho.pt/ISNPS2024/) (Braga, Jun 2024)
@@ -93,6 +92,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* [Optimal Transport Cargese Workshop](https://otcargeseworkshop.wixsite.com/2024) (Cargèse, Apr 2024)
 * [Autumn School](https://bayesatcirm.github.io/2023/) in Bayesian Statistics, CIRM (Marseille, Nov 2023)
 * [ECOSTA 2023](http://www.cmstatistics.org/EcoSta2023/) (Tokyo, Aug 2023)
 * Workshop [Emerging Topics in Applications of Optimal Transport](https://eth-its.ethz.ch/activities/Transport.html), ETH (Zürich, Jun 2023)
