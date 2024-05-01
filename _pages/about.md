@@ -31,6 +31,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [International Symposium on Nonparametric Statistics](https://w3.math.uminho.pt/ISNPS2024/) (Braga, Jun 2024)
 * [ISBA World Meeting](https://www.unive.it/web/en/2208/home) (Venice, Jul 2024)
 * [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) (Singapore, Jul 2024)
+* [VIASM Workshop on Bayesian learning and network analysis](https://viasm.edu.vn/en/hdkh/somsaml2024?userkey=workshop) (Hanoi, Jul 2024)
 * [BNP Networking Workshop 2024](https://bnp-networking2024.github.io/#top) (Singapore, Jul 2024)
 * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
 * Workshop on [Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196/participants) (Oaxaca, Sep 2024)
