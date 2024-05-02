@@ -40,26 +40,28 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
-1. **Hierarchical Integral Probability Metrics:**  <br> 
-**A distance on random probability measures with low sample complexity.** <br>
-M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2402.00423.pdf) <br>
-2. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
+1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2305.06116.pdf) <br>
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Main Publications  </font></p>
-1.  **A Wasserstein Index of Dependence for Random Measures**. <br>
+1. **Hierarchical Integral Probability Metrics:**  <br>
+**A distance on random probability measures with low sample complexity.** <br>
+M. Catalano and H. Lavenant (2024).  <br> 
+International Conference on Machine Learning, forthcoming.  <br> 
+[[arXiv]](https://arxiv.org/pdf/2402.00423.pdf)
+2.  **A Wasserstein Index of Dependence for Random Measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2023). <br>
 Journal of the American Statistical Association, forthcoming. <br>
 [[arXiv]](https://arxiv.org/pdf/2109.06646.pdf) [[bib]](https://martacatalano.github.io/files/2023_JASA.bib) [[web]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2258596)
-2.  **A Unified Approach to Hierarchical Random Measures**. <br> 
+3.  **A Unified Approach to Hierarchical Random Measures**. <br> 
 M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (2023).<br>
 Sankhya A, forthcoming. <br> 
 [[pdf]](https://martacatalano.github.io/files/2023_Sankhya.pdf) [[bib]](https://martacatalano.github.io/files/2023_Sankhya.bib) [[web]](https://link.springer.com/article/10.1007/s13171-023-00330-w)
-3.  **Bayesian Modeling via Discrete Nonparametric Priors**. <br>
+4.  **Bayesian Modeling via Discrete Nonparametric Priors**. <br>
 M. Catalano, A. Lijoi, I. Prünster and T. Rigon (2023).  <br>
 Japanese Journal of Statistics and Data Science, 6, 607–624. <br>
 [[pdf]](https://martacatalano.github.io/files/2023_JJSDS.pdf) [[bib]](https://martacatalano.github.io/files/2023_JJSDS.bib) [[web]](https://doi.org/10.1007/s42081-023-00210-5)
-4.  **Posterior Asymptotics for Boosted Hierarchical Dirichlet Process Mixtures**. <br>
+5.  **Posterior Asymptotics for Boosted Hierarchical Dirichlet Process Mixtures**. <br>
 M. Catalano, P. De Blasi, A. Lijoi and I. Prünster (2022).  <br>
 Journal of Machine Learning Research, 23(80), 1−23. <br>
 [[pdf]](https://martacatalano.github.io/files/2022_JMLR.pdf) [[bib]](https://martacatalano.github.io/files/2022_JMLR.bib) [[web]](https://jmlr.org/papers/v23/20-1474.html)
@@ -67,7 +69,7 @@ Journal of Machine Learning Research, 23(80), 1−23. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2022). <br>
 Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 [[pdf]](https://martacatalano.github.io/files/2022_SIS.pdf) [[bib]](https://martacatalano.github.io/files/2022_SIS.bib) [[web]](https://it.pearson.com/docenti/universita/partnership/sis.html) -->
-5.  **Measuring Dependence in the Wasserstein Distance for Bayesian Nonparametric Models**. <br> 
+6.  **Measuring Dependence in the Wasserstein Distance for Bayesian Nonparametric Models**. <br> 
 M. Catalano, A. Lijoi and I. Prünster (2021).<br>
 The Annals of Statistics, 49 (5), 2916-2947. <br>
 Winner of the [ASA-SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition. <br>
@@ -76,7 +78,7 @@ Winner of the [ASA-SBSS](https://community.amstat.org/sbss/awards) 2021 Student 
 M. Catalano, A. Lijoi and I. Prünster (2021). <br>
 In Advances in Probability and Mathematical Statistics, Springer, 59-70. <br>
 [[pdf]](https://martacatalano.github.io/files/2021_CLAPEM.pdf) [[bib]](https://martacatalano.github.io/files/2021_CLAPEM.bib) [[web]](https://link.springer.com/chapter/10.1007/978-3-030-85325-9_4) -->
-6.  **Approximation of Bayesian Models for Time-to-Event Data.** <br>
+7.  **Approximation of Bayesian Models for Time-to-Event Data.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2020). <br>
 Electronic Journal of Statistics, 14, 3366-3395. <br>
 [[pdf]](https://martacatalano.github.io/files/2020_EJS.pdf) [[bib]](https://martacatalano.github.io/files/2020_EJS.bib) [[web]](https://doi.org/10.1214/20-EJS1746)
