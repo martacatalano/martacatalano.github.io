@@ -25,7 +25,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Stochastic processes and random measures
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
-* [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) journal is now open to submissions
+* [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is now open to submissions
 * [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) (Rome, Jun 2024)
 * [International Symposium on Nonparametric Statistics](https://w3.math.uminho.pt/ISNPS2024/) (Braga, Jun 2024)
 * [ISBA World Meeting](https://www.unive.it/web/en/2208/home) (Venice, Jul 2024)
