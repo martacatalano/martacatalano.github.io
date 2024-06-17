@@ -26,7 +26,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is now open to submissions
-* [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) (Rome, Jun 2024)
 * [International Symposium on Nonparametric Statistics](https://w3.math.uminho.pt/ISNPS2024/) (Braga, Jun 2024)
 * [ISBA World Meeting](https://www.unive.it/web/en/2208/home) (Venice, Jul 2024)
 * [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) (Singapore, Jul 2024)
@@ -94,6 +93,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) (Rome, Jun 2024)
 * [BNP-ISBA Webinar](https://bnp-isba.github.io/webinars.html) (Online, May 2024)
 * [Optimal Transport Cargese Workshop](https://otcargeseworkshop.wixsite.com/2024) (Cargèse, Apr 2024)
 * [Autumn School](https://bayesatcirm.github.io/2023/) in Bayesian Statistics, CIRM (Marseille, Nov 2023)
