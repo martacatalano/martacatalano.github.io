@@ -91,7 +91,6 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
-* [ISBA World Meeting](https://www.unive.it/web/en/2208/home) (Venice, Jul 2024)
 * [International Symposium on Nonparametric Statistics](https://w3.math.uminho.pt/ISNPS2024/) (Braga, Jun 2024)
 * [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) (Rome, Jun 2024)
 * [BNP-ISBA Webinar](https://bnp-isba.github.io/webinars.html) (Online, May 2024)
