@@ -11,7 +11,7 @@ redirect_from:
 <p style = "margin-bottom:20px;"><font  size="7" >  Marta Catalano <br> </font> </p>
 
 I am an Assistant professor of Statistics at [Luiss University](https://economiaefinanza.luiss.it/en) in Rome. <br>
-Previously, I was a Harrison Early Career Assistant Professor at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). I am also affiliated to the de Castro Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/) and to the BayesLab at [Bocconi University](https://bayeslab.unibocconi.eu/). <br>
+Previously, I was a Harrison Early Career Assistant Professor at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). I am also affiliated to the BayesLab at [Bocconi University](https://bayeslab.unibocconi.eu/). <br>
 A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_24.05.pdf).
 
 <!-- * I am a Harrison Early Career Assistant Professor in the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). <br> 
@@ -26,9 +26,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is now open to submissions
-* [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) (Singapore, Jul 2024)
-* [VIASM Workshop on Bayesian learning and network analysis](https://viasm.edu.vn/en/hdkh/somsaml2024?userkey=workshop) (Hanoi, Jul 2024)
-* [BNP Networking Workshop 2024](https://bnp-networking2024.github.io/#top) (Singapore, Jul 2024)
 * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
 * Workshop on [Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196/participants) (Oaxaca, Sep 2024)
 * [DEMO2024 Workshop on Dependence Modelling](https://www.vub.be/en/event/demo2024-workshop-dependence-modelling#paragraph-282002) (Ischia, Sep 2024)
@@ -70,7 +67,7 @@ M. Catalano, A. Lijoi and I. Prünster (2021).<br>
 The Annals of Statistics, 49 (5), 2916-2947. <br>
 Winner of the [ASA-SBSS](https://community.amstat.org/sbss/awards) 2021 Student Paper Competition. <br>
 [[pdf]](https://martacatalano.github.io/files/2021_AOS.pdf) [[bib]](https://martacatalano.github.io/files/2021_AOS.bib) [[web]](https://doi.org/10.1214/21-AOS2065) [[YoungStatS blog]](https://youngstats.github.io/post/2022/01/17/measuring-dependence-in-the-wasserstein-distance-for-bayesian-nonparametric-models/)
-<!-- * 6. **Transport Distances on Random Vectors of Measures: Recent Advances in Bayesian Nonparametrics.** <br>
+<!-- 6. **Transport Distances on Random Vectors of Measures: Recent Advances in Bayesian Nonparametrics.** <br>
 M. Catalano, A. Lijoi and I. Prünster (2021). <br>
 In Advances in Probability and Mathematical Statistics, Springer, 59-70. <br>
 [[pdf]](https://martacatalano.github.io/files/2021_CLAPEM.pdf) [[bib]](https://martacatalano.github.io/files/2021_CLAPEM.bib) [[web]](https://link.springer.com/chapter/10.1007/978-3-030-85325-9_4) -->
@@ -91,6 +88,9 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) (Singapore, Jul 2024)
+* [VIASM Workshop on Bayesian learning and network analysis](https://viasm.edu.vn/en/hdkh/somsaml2024?userkey=workshop) (Hanoi, Jul 2024)
+<!-- * [BNP Networking Workshop 2024](https://bnp-networking2024.github.io/#top) (Singapore, Jul 2024) -->
 * [International Symposium on Nonparametric Statistics](https://w3.math.uminho.pt/ISNPS2024/) (Braga, Jun 2024)
 * [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) (Rome, Jun 2024)
 * [BNP-ISBA Webinar](https://bnp-isba.github.io/webinars.html) (Online, May 2024)
