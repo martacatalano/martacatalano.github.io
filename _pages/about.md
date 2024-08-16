@@ -26,7 +26,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is now open to submissions
-* [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
 * Workshop on [Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196/participants) (Oaxaca, Sep 2024)
 * [DEMO2024 Workshop on Dependence Modelling](https://www.vub.be/en/event/demo2024-workshop-dependence-modelling#paragraph-282002) (Ischia, Sep 2024)
 * [COBAL-EBEB 2024](https://www.even3.com.br/cobal-ebeb-2024/) (Belo Horizonte, Dec 2024)
@@ -88,6 +87,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
 * [Interpretable Inference via Principled BNP Approaches in Biomedical Research and Beyond](https://ims.nus.edu.sg/events/interpretable-inference-via-principled-bnp-approaches-in-biomedical-research-beyond/) (Singapore, Jul 2024)
 * [VIASM Workshop on Bayesian learning and network analysis](https://viasm.edu.vn/en/hdkh/somsaml2024?userkey=workshop) (Hanoi, Jul 2024)
 <!-- * [BNP Networking Workshop 2024](https://bnp-networking2024.github.io/#top) (Singapore, Jul 2024) -->
