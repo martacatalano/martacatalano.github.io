@@ -29,6 +29,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Workshop on [Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196/participants) (Oaxaca, Sep 2024)
 * [DEMO2024 Workshop on Dependence Modelling](https://www.vub.be/en/event/demo2024-workshop-dependence-modelling#paragraph-282002) (Ischia, Sep 2024)
 * [COBAL-EBEB 2024](https://www.even3.com.br/cobal-ebeb-2024/) (Belo Horizonte, Dec 2024)
+* [International Conference on Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719) (Varanasi, Jan 2025)
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
@@ -40,7 +41,7 @@ M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2305.06
 **A distance on random probability measures with low sample complexity.** <br>
 M. Catalano and H. Lavenant (2024).  <br> 
 International Conference on Machine Learning, forthcoming.  <br> 
-[[arXiv]](https://arxiv.org/pdf/2402.00423.pdf)
+[[arXiv]](https://arxiv.org/pdf/2402.00423.pdf) [[bib]](https://martacatalano.github.io/files/2024_ICML.bib) [[web]](https://proceedings.mlr.press/v235/catalano24a.html)
 2.  **A Wasserstein Index of Dependence for Random Measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2023). <br>
 Journal of the American Statistical Association, forthcoming. <br>
