@@ -40,7 +40,7 @@ M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2305.06
 1. **Hierarchical Integral Probability Metrics:**  <br>
 **A distance on random probability measures with low sample complexity.** <br>
 M. Catalano and H. Lavenant (2024).  <br> 
-Proceedings of the 41st International Conference on Machine Learning <br> 
+Proceedings of the 41st International Conference on Machine Learning. <br> 
 [[arXiv]](https://arxiv.org/pdf/2402.00423.pdf) [[bib]](https://martacatalano.github.io/files/2024_ICML.bib) [[web]](https://proceedings.mlr.press/v235/catalano24a.html)
 2.  **A Wasserstein Index of Dependence for Random Measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2023). <br>
