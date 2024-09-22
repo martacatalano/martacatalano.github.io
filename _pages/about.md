@@ -41,9 +41,9 @@ M. Catalano and H. Lavenant (2024).  <br>
 Proceedings of the 41st International Conference on Machine Learning. <br> 
 [[arXiv]](https://arxiv.org/pdf/2402.00423.pdf) [[bib]](https://martacatalano.github.io/files/2024_ICML.bib) [[web]](https://proceedings.mlr.press/v235/catalano24a.html)
 2.  **A Wasserstein Index of Dependence for Random Measures**. <br>
-M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2023). <br>
-Journal of the American Statistical Association, forthcoming. <br>
-[[arXiv]](https://arxiv.org/pdf/2109.06646.pdf) [[bib]](https://martacatalano.github.io/files/2023_JASA.bib) [[web]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2258596)
+M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2024). <br>
+Journal of the American Statistical Association, 119(547), 2396–2406. <br>
+[[arXiv]](https://arxiv.org/pdf/2109.06646.pdf) [[bib]](https://martacatalano.github.io/files/2024_JASA.bib) [[web]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2258596)
 3.  **A Unified Approach to Hierarchical Random Measures**. <br> 
 M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (2023).<br>
 Sankhya A, forthcoming. <br> 
