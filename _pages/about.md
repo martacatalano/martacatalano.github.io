@@ -25,6 +25,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Stochastic processes and random measures
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
+* The [j-ISBA Peer Mentoring Scheme](https://j-isba.github.io/peer-mentoring.html) is now active
 * [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is now open to submissions
 * [COBAL-EBEB 2024](https://www.even3.com.br/cobal-ebeb-2024/) (Belo Horizonte, Dec 2024)
 * [Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719) (Varanasi, Jan 2025)
