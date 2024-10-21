@@ -29,6 +29,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is now open to submissions
 * [COBAL-EBEB 2024](https://www.even3.com.br/cobal-ebeb-2024/) (Belo Horizonte, Dec 2024)
 * [Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719) (Varanasi, Jan 2025)
+* [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) (London, 19 Feb 2025)
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
