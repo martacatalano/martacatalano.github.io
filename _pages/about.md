@@ -30,6 +30,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [COBAL-EBEB 2024](https://www.even3.com.br/cobal-ebeb-2024/) (Belo Horizonte, Dec 2024)
 * [Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719) (Varanasi, Jan 2025)
 * [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) (London, 19 Feb 2025)
+* [BNP14](https://bnp14.org/) (Los Angeles, June 2025)
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
