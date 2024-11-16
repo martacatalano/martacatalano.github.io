@@ -48,9 +48,9 @@ M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2024). <br>
 Journal of the American Statistical Association, 119(547), 2396–2406. <br>
 [[arXiv]](https://arxiv.org/pdf/2109.06646.pdf) [[bib]](https://martacatalano.github.io/files/2024_JASA.bib) [[web]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2258596)
 3.  **A Unified Approach to Hierarchical Random Measures**. <br> 
-M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (2023).<br>
-Sankhya A, forthcoming. <br> 
-[[pdf]](https://martacatalano.github.io/files/2023_Sankhya.pdf) [[bib]](https://martacatalano.github.io/files/2023_Sankhya.bib) [[web]](https://link.springer.com/article/10.1007/s13171-023-00330-w)
+M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (2024).<br>
+Sankhya A, 86, 255-287. <br> 
+[[pdf]](https://martacatalano.github.io/files/2024_Sankhya.pdf) [[bib]](https://martacatalano.github.io/files/2024_Sankhya.bib) [[web]](https://link.springer.com/article/10.1007/s13171-023-00330-w)
 4.  **Bayesian Modeling via Discrete Nonparametric Priors**. <br>
 M. Catalano, A. Lijoi, I. Prünster and T. Rigon (2023).  <br>
 Japanese Journal of Statistics and Data Science, 6, 607–624. <br>
