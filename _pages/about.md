@@ -27,7 +27,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * The [j-ISBA Peer Mentoring Scheme](https://j-isba.github.io/peer-mentoring.html) is now active
 * [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is now open to submissions
-* [COBAL-EBEB 2024](https://www.even3.com.br/cobal-ebeb-2024/) (Belo Horizonte, Dec 2024)
 * [Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719) (Varanasi, Jan 2025)
 * [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) (London, 19 Feb 2025)
 * [BNP14](https://bnp14.org/) (Los Angeles, June 2025)
@@ -89,6 +88,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* [COBAL-EBEB 2024](https://www.even3.com.br/cobal-ebeb-2024/) (Belo Horizonte, Dec 2024)
 * [DEMO2024 Workshop on Dependence Modelling](https://www.vub.be/en/event/demo2024-workshop-dependence-modelling#paragraph-282002) (Ischia, Sep 2024)
 * Workshop on [Frontiers of Bayesian Inference and Data Science](https://www.birs.ca/events/2024/5-day-workshops/24w5196/participants) (Oaxaca, Sep 2024)
 * [Bernoulli-IMS World Congress](https://www.bernoulli-ims-worldcongress2024.org/)  (Bochum, Aug 2024)
