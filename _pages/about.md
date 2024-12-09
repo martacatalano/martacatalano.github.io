@@ -30,6 +30,8 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719) (Varanasi, Jan 2025)
 * [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) (London, 19 Feb 2025)
 * [BNP14](https://bnp14.org/) (Los Angeles, June 2025)
+** [ECOSTA 2025](https://www.cmstatistics.org/EcoSta2025/committees.php) (Tokyo, Aug 2025)
+* [BIRS-CMI]([https://www.birs.ca/events/2021/5-day-workshops/21w5107](https://www.birs.ca/events/2025/5-day-workshops/25w5329)) Workshop on Bayesian Uncertainty Quantification in Large Models (Chennai, Dec 2025)
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
