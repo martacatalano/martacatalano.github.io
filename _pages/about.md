@@ -36,10 +36,11 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
-1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
-M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2305.06116.pdf) <br>
-2. **Measuring Partial Exchangeability with Reproducing Kernel Hilbert Spaces**. <br>
+1. **Measuring Partial Exchangeability with Reproducing Kernel Hilbert Spaces**. <br>
 M. Catalano, H. Lavenant, and F. Mascari (work in progress). <br>
+2. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
+M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2305.06116.pdf) <br>
+
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Main Publications  </font></p>
 1. **Hierarchical Integral Probability Metrics:**  <br>
