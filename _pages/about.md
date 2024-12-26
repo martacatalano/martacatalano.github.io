@@ -21,7 +21,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Interests  </font></p>
 * Bayesian nonparametrics 
-* Distance-based methods in probabilistic Machine Learning
+* Distance-based methods in probabilistic machine learning
 * Statistical optimal transport and Wasserstein distances
 * Stochastic processes and random measures
 
