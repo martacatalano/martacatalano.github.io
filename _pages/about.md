@@ -29,6 +29,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * The [j-ISBA Peer Mentoring Scheme](https://j-isba.github.io/peer-mentoring.html) is now active
 * [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is now open to submissions
 * [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) (London, 19 Feb 2025)
+* [SDS 2025](https://sds2025.sis-statistica.it/) (Milan, Apr 2025)
 * [BNP14](https://bnp14.org/) (Los Angeles, June 2025)
 * [ECOSTA 2025](https://www.cmstatistics.org/EcoSta2025/committees.php) (Tokyo, Aug 2025)
 * [RSS 2025](https://rss.org.uk/training-events/conference-2025/) (Edinburgh, Sep 2025)
