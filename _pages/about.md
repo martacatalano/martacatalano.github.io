@@ -26,7 +26,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Stochastic processes and random measures
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
-* Weekly reading group on Optimal Transport @Luiss, starting February 2025 (Wednesdays, 10:30 AM - 12:00 PM). Email me to join!
+* Reading group on Optimal Transport @Luiss, starting Feb 2025 every Wed 10:30-12:00. Email me to join!
 * The [j-ISBA Peer Mentoring Scheme](https://j-isba.github.io/peer-mentoring.html) is now active
 * [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is now open to submissions
 * [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) (London, 19 Feb 2025)
