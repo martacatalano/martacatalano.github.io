@@ -41,7 +41,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 1. **Measuring Partial Exchangeability with Reproducing Kernel Hilbert Spaces**. <br>
 M. Catalano, H. Lavenant, and F. Mascari (working paper). <br>
 2. **Measures of Dependence based on Wasserstein distances**. <br>
-M. catalano and H. Lavenant (submitted)
+M. Catalano and H. Lavenant (submitted). <br>
 3. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/pdf/2305.06116.pdf) <br>
 
