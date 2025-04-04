@@ -30,7 +30,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/home) @Luiss (Roma, 15-16 May 2025)
 * [j-ISBA Peer Mentoring Scheme](https://j-isba.github.io/peer-mentoring.html)
 * [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is open to submissions
-* [SDS 2025](https://sds2025.sis-statistica.it/) (Milan, Apr 2025)
 * [BNP14](https://bnp14.org/) (Los Angeles, June 2025)
 * [ECOSTA 2025](https://www.cmstatistics.org/EcoSta2025/committees.php) (Tokyo, Aug 2025)
 * [RSS 2025](https://rss.org.uk/training-events/conference-2025/) (Edinburgh, Sep 2025)
@@ -98,6 +97,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* [SDS 2025](https://sds2025.sis-statistica.it/) (Milan, Apr 2025)
 * [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) (London, 19 Feb 2025)
 * [Recent Developments in the Techniques of Bayesian Paradigm](https://www.bhu.ac.in/Site/UnitHomeTemplate/1_3384_6719) (Varanasi, Jan 2025)
 * [COBAL-EBEB 2024](https://www.even3.com.br/cobal-ebeb-2024/) (Belo Horizonte, Dec 2024)
