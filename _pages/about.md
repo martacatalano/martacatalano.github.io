@@ -26,14 +26,16 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Stochastic processes and random measures
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
-* Reading group on Optimal Transport @Luiss, starting Feb 2025 every Wed 10:30-12:00. Email me to join!
-* [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/home) @Luiss (Roma, 15-16 May 2025)
-* [j-ISBA Peer Mentoring Scheme](https://j-isba.github.io/peer-mentoring.html)
-* [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is open to submissions
 * [BNP14](https://bnp14.org/) (Los Angeles, June 2025)
 * [ECOSTA 2025](https://www.cmstatistics.org/EcoSta2025/committees.php) (Tokyo, Aug 2025)
 * [RSS 2025](https://rss.org.uk/training-events/conference-2025/) (Edinburgh, Sep 2025)
 * [BIRS-CMI](https://www.birs.ca/events/2025/5-day-workshops/25w5329) Workshop on Bayesian Uncertainty Quantification in Large Models (Chennai, Dec 2025)
+
+<p style = "margin-bottom:5px;"> <font size="5" > <br>  Recent Events  </font></p>
+* Reading group on Optimal Transport @Luiss, starting Feb 2025 every Wed 10:30-12:00. Email me to join!
+* [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/home) @Luiss (Roma, 15-16 May 2025)
+* [j-ISBA Peer Mentoring Scheme](https://j-isba.github.io/peer-mentoring.html)
+* [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is open to submissions
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
