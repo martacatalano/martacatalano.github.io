@@ -35,7 +35,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Reading group on Optimal Transport @Luiss, starting Feb 2025 every Wed 10:30-12:00. Email me to join!
 * [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/home) @Luiss (Roma, 15-16 May 2025)
 * [j-ISBA Peer Mentoring Scheme](https://j-isba.github.io/peer-mentoring.html)
-* [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is open to submissions
+* [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is open to submissions [[flyer](https://martacatalano.github.io/files/TOPML.pdf)]
 
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Preprints  </font></p>
