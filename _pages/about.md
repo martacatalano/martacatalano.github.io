@@ -29,6 +29,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [BNP14](https://bnp14.org/) (Los Angeles, June 2025)
 * [ECOSTA 2025](https://www.cmstatistics.org/EcoSta2025/committees.php) (Tokyo, Aug 2025)
 * [RSS 2025](https://rss.org.uk/training-events/conference-2025/) (Edinburgh, Sep 2025)
+* [MSP2025](https://msp.campus.unimib.it/program) (Milan, Sep 2025)
 * [BIRS-CMI](https://www.birs.ca/events/2025/5-day-workshops/25w5329) Workshop on Bayesian Uncertainty Quantification in Large Models (Chennai, Dec 2025)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Recent Events  </font></p>
