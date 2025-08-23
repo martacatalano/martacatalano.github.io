@@ -12,7 +12,7 @@ redirect_from:
 
 I am an Assistant professor of Statistics at [Luiss University](https://economiaefinanza.luiss.it/en) in Rome. <br>
 Previously, I was a Harrison Early Career Assistant Professor at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). I am also affiliated to the BayesLab at [Bocconi University](https://bayeslab.unibocconi.eu/). <br>
-A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_25.06.pdf).
+A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_25.08.pdf).
 
 <!-- * I am a Harrison Early Career Assistant Professor in the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). <br> 
 Previously, I was a postdoc at the [University of Torino](https://www.esomas.unito.it/do/home.pl)  with [Pierpaolo De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/). I  obtained my PhD in Statistics at [Bocconi](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). <br> 
