@@ -26,7 +26,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * Stochastic processes and random measures
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
-* [MSP2025](https://msp.campus.unimib.it/program) (Milan, Sep 2025)
 * [BIRS-CMI](https://www.birs.ca/events/2025/5-day-workshops/25w5329) Workshop on Bayesian Uncertainty Quantification in Large Models (Chennai, Dec 2025)
 * [ICERM](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp) Workshop on Nonparametric Bayesian Inference - Computational Issues (Providence, Jan 2026)
 
@@ -100,6 +99,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* [MSP2025](https://msp.campus.unimib.it/program) (Milan, Sep 2025)
 * [RSS 2025](https://rss.org.uk/training-events/conference-2025/) (Edinburgh, Sep 2025)
 * [ECOSTA 2025](https://www.cmstatistics.org/EcoSta2025/committees.php) (Tokyo, Aug 2025)
 * [BNP14](https://bnp14.org/) (Los Angeles, June 2025)
