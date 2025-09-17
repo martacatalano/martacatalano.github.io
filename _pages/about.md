@@ -50,7 +50,7 @@ M. Catalano and H. Lavenant (submitted). <br>
 1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (2025).  <br>
 To appear in Bernoulli.  <br>
-[[arXiv]](https://arxiv.org/pdf/2305.06116.pdf)
+[[arXiv]](https://arxiv.org/pdf/2305.06116.pdf) [[bib]](https://martacatalano.github.io/files/2025_Bernoulli.bib)
 2. **Hierarchical Integral Probability Metrics:**  <br>
 **A distance on random probability measures with low sample complexity.** <br>
 M. Catalano and H. Lavenant (2024).  <br> 
