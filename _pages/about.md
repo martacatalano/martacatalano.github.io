@@ -28,6 +28,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * [BIRS-CMI](https://www.birs.ca/events/2025/5-day-workshops/25w5329) Workshop on Bayesian Uncertainty Quantification in Large Models (Chennai, Dec 2025)
 * [ICERM](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp) Workshop on Nonparametric Bayesian Inference - Computational Issues (Providence, Jan 2026)
+* [ISBA 2026](https://isba2026.github.io/) (Nagoya, Jun 2026)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Recent Events  </font></p>
 * Reading group on Optimal Transport @Luiss, starting Feb 2025 every Wed 10:30-12:00. Email me to join!
