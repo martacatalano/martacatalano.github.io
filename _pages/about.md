@@ -166,7 +166,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * [Second Italian Meeting on Probability and Mathematical Statistics](http://www.salerno2019.dipmat.unisa.it/) (Vietri sul Mare, Jun 2019).
 
 <p style = "margin-bottom:5px;"> <font size="5" margin-bottom = "1em"> <br>  Teaching  </font></p>
-* Mathematical Foundations of Economics, Ph.D. in Economics, Luiss University (AY 2025/2026]
+* Mathematical Foundations of Economics, Ph.D. in Economics, Luiss University (AY 2025/2026)
 * [Advanced Statistics](https://www.luiss.it/cattedreonline/corso/DSM01/0/LMDSMBASE/2023), Luiss University (AY 2023/2024, 2024/2025, 2025/2026)
 * [Machine Learning](https://www.luiss.it/cattedreonline/corso/EM61/0/19FLMBASE/2023), Luiss University (AY 2023/2024, 2024/2025, 2025/2026)
 * [Dependent nonparametric priors via CRMs](https://www.master-sds.unito.it/do/home.pl/View?doc=visitingprofessors.html), University of Torino (Short course, 2022)
