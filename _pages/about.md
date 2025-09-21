@@ -41,7 +41,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 1. **Measuring Partial Exchangeability with Reproducing Kernel Hilbert Spaces**. <br>
 M. Catalano, H. Lavenant, and F. Mascari (preprint). <br>
 2. **Hierarchical Random Measures without Tables**. <br>
-M. Catalano, C. Del Sole (submitted). [[arXiv]](https://arxiv.org/abs/2505.02653) <br>
+M. Catalano, C. Del Sole (submitted). [[arXiv]](https://arxiv.org/abs/2505.02653) [[bib]](https://martacatalano.github.io/files/2025_hierarchical.bib) <br>
 3. **Measures of Dependence based on Wasserstein distances**. <br>
 M. Catalano and H. Lavenant (submitted). <br>
 
