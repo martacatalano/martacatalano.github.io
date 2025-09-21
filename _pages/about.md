@@ -51,12 +51,12 @@ M. Catalano and H. Lavenant (submitted). <br>
 1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (2025).  <br>
 To appear in Bernoulli.  <br>
-[[arXiv]](https://arxiv.org/abs//2305.06116) [[bib]](https://martacatalano.github.io/files/2025_Bernoulli.bib)
+[[arXiv]](https://arxiv.org/abs/2305.06116) [[bib]](https://martacatalano.github.io/files/2025_Bernoulli.bib)
 2. **Hierarchical Integral Probability Metrics:**  <br>
 **A distance on random probability measures with low sample complexity.** <br>
 M. Catalano and H. Lavenant (2024).  <br> 
 Proceedings of the 41st International Conference on Machine Learning. <br> 
-[[arXiv]](https://arxiv.org/abs//2402.00423) [[bib]](https://martacatalano.github.io/files/2024_ICML.bib) [[web]](https://proceedings.mlr.press/v235/catalano24a.html)
+[[arXiv]](https://arxiv.org/abs/2402.00423) [[bib]](https://martacatalano.github.io/files/2024_ICML.bib) [[web]](https://proceedings.mlr.press/v235/catalano24a.html)
 3.  **A Wasserstein Index of Dependence for Random Measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2024). <br>
 Journal of the American Statistical Association, 119(547), 2396–2406. <br>
