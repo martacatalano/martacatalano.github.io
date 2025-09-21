@@ -31,7 +31,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [ISBA 2026](https://isba2026.github.io/) (Nagoya, Jun 2026)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Recent Events  </font></p>
-* Reading group on Optimal Transport @Luiss, starting Feb 2025 every Wed 10:30-12:00. Email me to join!
+* Reading group on Optimal Transport @Luiss, starting Feb 2025 every Wed 10:30-12:00. 
 * [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/home) @Luiss (Roma, 15-16 May 2025)
 * [j-ISBA Peer Mentoring Scheme](https://j-isba.github.io/peer-mentoring.html)
 * [ACM Transactions on Probabilistic Machine Learning](https://dl.acm.org/journal/topml) is open to submissions [[flyer](https://martacatalano.github.io/files/TOPML.pdf)]
@@ -51,16 +51,16 @@ M. Catalano and H. Lavenant (submitted). <br>
 1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (2025).  <br>
 To appear in Bernoulli.  <br>
-[[arXiv]](https://arxiv.org/pdf/2305.06116.pdf) [[bib]](https://martacatalano.github.io/files/2025_Bernoulli.bib)
+[[arXiv]](https://arxiv.org/abs//2305.06116) [[bib]](https://martacatalano.github.io/files/2025_Bernoulli.bib)
 2. **Hierarchical Integral Probability Metrics:**  <br>
 **A distance on random probability measures with low sample complexity.** <br>
 M. Catalano and H. Lavenant (2024).  <br> 
 Proceedings of the 41st International Conference on Machine Learning. <br> 
-[[arXiv]](https://arxiv.org/pdf/2402.00423.pdf) [[bib]](https://martacatalano.github.io/files/2024_ICML.bib) [[web]](https://proceedings.mlr.press/v235/catalano24a.html)
+[[arXiv]](https://arxiv.org/abs//2402.00423) [[bib]](https://martacatalano.github.io/files/2024_ICML.bib) [[web]](https://proceedings.mlr.press/v235/catalano24a.html)
 3.  **A Wasserstein Index of Dependence for Random Measures**. <br>
 M. Catalano, H. Lavenant, A. Lijoi and I. Prünster (2024). <br>
 Journal of the American Statistical Association, 119(547), 2396–2406. <br>
-[[arXiv]](https://arxiv.org/pdf/2109.06646.pdf) [[bib]](https://martacatalano.github.io/files/2024_JASA.bib) [[web]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2258596)
+[[arXiv]](https://arxiv.org/abs/2109.06646) [[bib]](https://martacatalano.github.io/files/2024_JASA.bib) [[web]](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2258596)
 4.  **A Unified Approach to Hierarchical Random Measures**. <br> 
 M. Catalano, C. Del Sole, A. Lijoi, I. Prünster (2024).<br>
 Sankhya A, 86, 255-287. <br> 
