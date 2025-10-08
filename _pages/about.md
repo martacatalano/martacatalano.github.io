@@ -44,7 +44,7 @@ M. Catalano, H. Lavenant, and F. Mascari (submitted). [[arXiv]](https://arxiv.or
 2. **Hierarchical Random Measures without Tables**. <br>
 M. Catalano, C. Del Sole (submitted). [[arXiv]](https://arxiv.org/abs/2505.02653) [[bib]](https://martacatalano.github.io/files/2025_hierarchical.bib) <br>
 3. **Measures of Dependence based on Wasserstein distances**. <br>
-M. Catalano and H. Lavenant (submitted). <br>
+M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/abs/2510.06034) [[bib]](https://martacatalano.github.io/files/2025_measures.bib) <br>
 
 
 
