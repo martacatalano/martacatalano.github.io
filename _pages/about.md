@@ -30,6 +30,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [ICERM](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp) Workshop on Nonparametric Bayesian Inference - Computational Issues (Providence, Jan 2026)
 * [ISBA 2026](https://isba2026.github.io/) (Nagoya, Jun 2026)
 * [ISBA Satellite Meeting](https://kkamatani.github.io/2026-isba-satellite/) on Information Geometry, Privacy and Monte Carlo (Tokyo, Jul 2026)
+* [BNP Networking Workshop](https://bnpnetworking2026.github.io/#about) (Seoul, Jul 2026)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Recent Events  </font></p>
 * Reading group on Optimal Transport @Luiss, starting Feb 2025 every Wed 10:30-12:00. 
