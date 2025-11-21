@@ -28,6 +28,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 * [BIRS-CMI](https://www.birs.ca/events/2025/5-day-workshops/25w5329) Workshop on Bayesian Uncertainty Quantification in Large Models (Chennai, Dec 2025)
 * [ICERM](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp) Workshop on Nonparametric Bayesian Inference - Computational Issues (Providence, Jan 2026)
+* [5th Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/) (Palermo, Jun 2026)
 * [ISBA 2026](https://isba2026.github.io/) (Nagoya, Jun 2026)
 * [ISBA Satellite Meeting](https://kkamatani.github.io/2026-isba-satellite/) on Information Geometry, Privacy and Monte Carlo (Tokyo, Jul 2026)
 * [BNP Networking Workshop](https://bnpnetworking2026.github.io/#about) (Seoul, Jul 2026)
