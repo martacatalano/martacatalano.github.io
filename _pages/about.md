@@ -28,8 +28,8 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 
 * Department of Statistical Science, [Duke](https://stat.duke.edu/) (27 Mar 2026)
-* Department of Mathematics and Statistics, [UNC Charlotte](https://math.charlotte.edu/) (3 April 2026)
-* Department of Statistical Science, [Sapienza](https://www.dss.uniroma1.it/it) (24 April 2026)
+* Department of Mathematics and Statistics, [UNC Charlotte](https://math.charlotte.edu/) (3 Apr 2026)
+* Department of Statistical Science, [Sapienza](https://www.dss.uniroma1.it/it) (24 Apr 2026)
 * [5th Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/) (Palermo, Jun 2026)
 * [ISBA 2026](https://isba2026.github.io/) (Nagoya, Jun 2026)
 * [ISBA Satellite Meeting](https://kkamatani.github.io/2026-isba-satellite/) on Information Geometry, Privacy and Monte Carlo (Tokyo, Jul 2026)
