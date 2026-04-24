@@ -27,13 +27,11 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 
-* Department of Statistical Science, [Duke](https://stat.duke.edu/) (27 Mar 2026)
-* Department of Mathematics and Statistics, [UNC Charlotte](https://math.charlotte.edu/) (3 Apr 2026)
-* Department of Statistical Science, [Sapienza](https://www.dss.uniroma1.it/it) (24 Apr 2026)
 * [5th Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/) (Palermo, Jun 2026)
 * [ISBA 2026](https://isba2026.github.io/) (Nagoya, Jun 2026)
 * [ISBA Satellite Meeting](https://kkamatani.github.io/2026-isba-satellite/) on Information Geometry, Privacy and Monte Carlo (Tokyo, Jul 2026)
 * [BNP Networking Workshop](https://bnpnetworking2026.github.io/#about) (Seoul, Jul 2026)
+* Oberwolfach Workshop on [Bayesian Methods](https://www.mfo.de/scientific-program/meetings/annual-program-poster-2026.pdf) (Oberwolfach, Jul 2026)
 * [SMPS 2026](https://conference.unisalento.it/event/14/) (Lecce, Sep 2026)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Recent Events  </font></p>
@@ -109,6 +107,9 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* Department of Statistical Science, [Duke](https://stat.duke.edu/) (27 Mar 2026)
+* Department of Mathematics and Statistics, [UNC Charlotte](https://math.charlotte.edu/) (3 Apr 2026)
+* Department of Statistical Science, [Sapienza](https://www.dss.uniroma1.it/it) (24 Apr 2026)
 * [ICERM](https://icerm.brown.edu/program/topical_workshop/tw-26-bnp) Workshop on Nonparametric Bayesian Inference - Computational Issues (Providence, Jan 2026)
 * [BIRS-CMI](https://www.birs.ca/events/2025/5-day-workshops/25w5329) Workshop on Bayesian Uncertainty Quantification in Large Models (Chennai, Dec 2025)
 * [MSP2025](https://msp.campus.unimib.it/program) (Milan, Sep 2025)
