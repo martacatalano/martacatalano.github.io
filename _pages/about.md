@@ -17,7 +17,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <!-- * I am a Harrison Early Career Assistant Professor in the Department of Statistics at the [University of Warwick](https://warwick.ac.uk/fac/sci/statistics/). <br> 
 Previously, I was a postdoc at the [University of Torino](https://www.esomas.unito.it/do/home.pl)  with [Pierpaolo De Blasi](https://sites.google.com/a/carloalberto.org/pdeblasi/). I  obtained my PhD in Statistics at [Bocconi](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/) University, under the supervision of [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=). <br> 
 I am also member of the "de Castro" Statistics Initiative at [Collegio Carlo Alberto](https://www.carloalberto.org/research/statistics-initiative/), of the [BayesLab](https://bayeslab.unibocconi.eu/) at Bocconi University and of the [MIDAS](https://midas.mat.uc.cl/network/) Complex Data Modeling Research Network.<br> 
-A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_25.08.pdf). -->
+A full version of my CV may be found [here](https://martacatalano.github.io/files/CV_MartaCatalano_26.05.pdf). -->
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Research Interests  </font></p>
 * Bayesian nonparametrics 
@@ -54,8 +54,8 @@ M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/abs/2510.06
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Main Publications  </font></p>
 1. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (2025).  <br>
-To appear in Bernoulli.  <br>
-[[arXiv]](https://arxiv.org/abs/2305.06116) [[bib]](https://martacatalano.github.io/files/2025_Bernoulli.bib)
+Bernoulli, 32(3), 1737-1762.  <br>
+[[arXiv]](https://arxiv.org/abs/2305.06116) [[bib]](https://martacatalano.github.io/files/2026_Bernoulli.bib) [[web]](https://projecteuclid.org/journals/bernoulli/volume-32/issue-3/Merging-rate-of-opinions-via-optimal-transport-on-random-measures/10.3150/25-BEJ1930.short)
 2. **Hierarchical Integral Probability Metrics:**  <br>
 **A distance on random probability measures with low sample complexity.** <br>
 M. Catalano and H. Lavenant (2024).  <br> 
