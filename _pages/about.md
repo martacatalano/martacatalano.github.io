@@ -52,7 +52,7 @@ M. Catalano and H. Lavenant (submitted). [[arXiv]](https://arxiv.org/abs/2510.06
 1. **Hierarchical Random Measures without Tables**. <br>
 M. Catalano, C. Del Sole (2026). <br>
 Bayesian Analysis, to appear. <br>
-[[arXiv]](https://arxiv.org/abs/2505.02653) [[bib]](https://martacatalano.github.io/files/2025_hierarchical.bib) <br>
+[[arXiv]](https://arxiv.org/abs/2505.02653) [[bib]](https://martacatalano.github.io/files/2025_hierarchical.bib) [[web]](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Hierarchical-Random-Measures-without-Tables/10.1214/26-BA1609.full) <br>
 2. **Merging Rate of Opinions via Optimal Transport on Random Measures**. <br>
 M. Catalano and H. Lavenant (2026).  <br>
 Bernoulli, 32(3), 1737-1762.  <br>
