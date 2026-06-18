@@ -31,6 +31,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 * [ISBA Satellite Meeting](https://kkamatani.github.io/2026-isba-satellite/) on Information Geometry, Privacy and Monte Carlo (Tokyo, Jul 2026)
 * [BNP Networking Workshop](https://bnpnetworking2026.github.io/#about) (Seoul, Jul 2026)
 * Oberwolfach Workshop on [Bayesian Methods](https://www.mfo.de/scientific-program/meetings/annual-program-poster-2026.pdf) (Oberwolfach, Jul 2026)
+* [ESOBE](https://esobe2026.github.io/) @Luiss (Roma, 27-28 Aug 2026) 
 * [SMPS 2026](https://conference.unisalento.it/event/14/) (Lecce, Sep 2026)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Recent Events  </font></p>
