@@ -27,13 +27,12 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 
-* New PhD Program in Data Science @Luiss. Deadline for [applications](https://phd.luiss.it/datascience/open-calls/): 24 July 2026. Write me an email if interested!
-* [BNP Networking Workshop](https://bnpnetworking2026.github.io/#about) (Seoul, Jul 2026)
 * Oberwolfach Workshop on [Bayesian Methods](https://www.mfo.de/scientific-program/meetings/annual-program-poster-2026.pdf) (Oberwolfach, Jul 2026)
 * [ESOBE](https://esobe2026.github.io/) @Luiss (Roma, 27-28 Aug 2026) 
 * [SMPS 2026](https://conference.unisalento.it/event/14/) (Lecce, Sep 2026)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Recent Events  </font></p>
+* New PhD Program in Data Science @Luiss. Deadline for [applications](https://phd.luiss.it/datascience/open-calls/): 24 July 2026. Write me an email if interested!
 * Reading group on Optimal Transport @Luiss, starting Feb 2025 every Wed 10:30-12:00. 
 * [Early-Career Workshop on Nonparametric Statistics](https://sites.google.com/view/wsnpstats/home) @Luiss (Roma, 15-16 May 2025)
 * [j-ISBA Peer Mentoring Scheme](https://j-isba.github.io/peer-mentoring.html)
@@ -108,6 +107,7 @@ Book of Short Papers of the Italian Statistical Society, Pearson. <br>
 * ASA-[SBSS](https://community.amstat.org/sbss/awards) Student Paper Competition (2021)
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Presentations </font></p>
+* [BNP Networking Workshop](https://bnpnetworking2026.github.io/#about) (Seoul, Jul 2026)
 * [ISBA Satellite Meeting](https://kkamatani.github.io/2026-isba-satellite/) on Information Geometry, Privacy and Monte Carlo (Tokyo, Jul 2026)
 * [ISBA 2026](https://isba2026.github.io/) (Nagoya, Jun 2026)
 * [5th Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it/) (Palermo, Jun 2026)
