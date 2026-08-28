@@ -28,7 +28,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 
 
-* [ESOBE](https://esobe2026.github.io/) @Luiss (Roma, 27-28 Aug 2026) 
 * [SMPS 2026](https://conference.unisalento.it/event/14/) (Lecce, Sep 2026)
 * Department of Statistical Science, [Padova](https://www.stat.unipd.it/) (3 Dec 2026)
 * IMS International Conference on Statistics and Data Science [ICSDS](https://sites.google.com/view/ims-icsds2026/) (Split, Dec 2026)
