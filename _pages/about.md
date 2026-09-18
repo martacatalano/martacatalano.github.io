@@ -27,8 +27,6 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 
-
-* [SMPS 2026](https://conference.unisalento.it/event/14/) (Lecce, Sep 2026)
 * Department of Statistical Science, [Padova](https://www.stat.unipd.it/) (3 Dec 2026)
 * IMS International Conference on Statistics and Data Science [ICSDS](https://sites.google.com/view/ims-icsds2026/) (Split, Dec 2026)
 * INI workshop on [Optimal transport: applications and statistical modelling](https://www.newton.ac.uk/event/OPTW04/) (Cambridge, Jun 2027)
