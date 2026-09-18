@@ -48,7 +48,7 @@ M. Catalano, H. Lavenant, and F. Mascari (submitted). [[arXiv]](https://arxiv.or
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br> Main Publications  </font></p>
 1. **Measures of Dependence based on Wasserstein distances**. <br>
-M. Catalano and H. Lavenant (2026). 
+M. Catalano and H. Lavenant (2026). <br>
 Statistical Science, to appear. <br>
 [[arXiv]](https://arxiv.org/abs/2510.06034) [[bib]](https://martacatalano.github.io/files/2025_measures.bib) <br>
 2. **Hierarchical Random Measures without Tables**. <br>
