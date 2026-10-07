@@ -29,7 +29,9 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 * Department of Statistical Science, [Padova](https://www.stat.unipd.it/) (3 Dec 2026)
 * IMS International Conference on Statistics and Data Science [ICSDS](https://sites.google.com/view/ims-icsds2026/) (Split, Dec 2026)
+* [BayesComp](https://bayescomp2027.org/) (Texas, May 2027)
 * INI workshop on [Optimal transport: applications and statistical modelling](https://www.newton.ac.uk/event/OPTW04/) (Cambridge, Jun 2027)
+  
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Recent Events  </font></p>
 * New PhD Program in Data Science @Luiss. Deadline for [applications](https://phd.luiss.it/datascience/open-calls/): 24 July 2026. Write me an email if interested!
