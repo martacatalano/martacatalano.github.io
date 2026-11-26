@@ -27,7 +27,7 @@ A full version of my CV may be found [here](https://martacatalano.github.io/file
 
 <p style = "margin-bottom:5px;"> <font size="5" > <br>  Upcoming Events  </font></p>
 
-* Department of Statistical Science, [Padova](https://www.stat.unipd.it/) (3 Dec 2026)
+* Department of Statistical Science, [Padova](https://www.stat.unipd.it/ricerca/academic-year-20262027) (3 Dec 2026)
 * IMS International Conference on Statistics and Data Science [ICSDS](https://sites.google.com/view/ims-icsds2026/) (Split, Dec 2026)
 * INI program on [Optimal transport](https://www.newton.ac.uk/event/opt/) (Cambridge Mar-Apr 2027)
 * [BayesComp](https://bayescomp2027.org/) (Texas, May 2027)
